@@ -9,13 +9,14 @@ Used with permission.
 
 Find links between movies actors and directors.
 
+	
 	./linker.py "Bruce Willis" "Emma Stone"
 
-             Bruce Willis
- [played in] Moonrise Kingdom [with]
-             Edward Norton
- [played in] Birdman: Or (The Unexpected Virtue of Ignorance) [with]
-             Emma Stone
+	             Bruce Willis
+	 [played in] Moonrise Kingdom [with]
+	             Edward Norton
+	 [played in] Birdman: Or (The Unexpected Virtue of Ignorance) [with]
+	             Emma Stone
 
 The linker will always find one of the shortest path linking the two persons. To remove any ambiguity of the natural language, "one of the shortest path" means that there isn't any shorter path. At least among the paths that are permitted by the data.
 

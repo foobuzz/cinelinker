@@ -1,0 +1,1101 @@
+"position","const","created","modified","description","Name","Known for","Birth date (month/day/year)",
+
+"1","nm0000134","Sun Mar  9 06:43:12 2014","Sun Mar  9 06:43:12 2014","","Robert De Niro","Actor, <a href=""http://www.imdb.com/title/tt0099685/"">Goodfellas</a>","1943-08-17"
+
+"2","nm0000197","Sun Mar  9 06:42:57 2014","Sun Oct 25 08:42:50 2015","","Jack Nicholson","Actor, <a href=""http://www.imdb.com/title/tt0081505/"">The Shining</a>","1937-04-22"
+
+"3","nm0000158","Sun Mar  9 06:42:14 2014","Sun Mar  9 06:42:14 2014","","Tom Hanks","Actor, <a href=""http://www.imdb.com/title/tt0382625/"">The Da Vinci Code</a>","1956-07-09"
+
+"4","nm0000008","Sun Mar  9 06:44:17 2014","Sun Mar  9 06:44:17 2014","","Marlon Brando","Actor, <a href=""http://www.imdb.com/title/tt0068646/"">The Godfather</a>","1924-04-03"
+
+"5","nm0000138","Sun Mar  9 06:41:58 2014","Sun Mar  9 06:41:58 2014","","Leonardo DiCaprio","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1974-11-11"
+
+"6","nm0000007","Thu Aug 13 10:05:55 2015","Thu Aug 13 10:05:55 2015","","Humphrey Bogart","Actor, <a href=""http://www.imdb.com/title/tt0034583/"">Casablanca</a>","1899-12-25"
+
+"7","nm0000136","Sun Mar  9 06:44:51 2014","Sun Mar  9 06:44:51 2014","","Johnny Depp","Actor, <a href=""http://www.imdb.com/title/tt0099487/"">Edward Scissorhands</a>","1963-06-09"
+
+"8","nm0000199","Sun Mar  9 06:43:25 2014","Sun Mar  9 06:43:25 2014","","Al Pacino","Actor, <a href=""http://www.imdb.com/title/tt0068646/"">The Godfather</a>","1940-04-25"
+
+"9","nm0000243","Sun Mar  9 06:43:20 2014","Sun Mar  9 06:43:20 2014","","Denzel Washington","Actor, <a href=""http://www.imdb.com/title/tt0139654/"">Training Day</a>","1954-12-28"
+
+"10","nm0000059","Sun Mar  9 06:43:41 2014","Sun Mar  9 06:43:41 2014","","Laurence Olivier","Actor, <a href=""http://www.imdb.com/title/tt0032976/"">Rebecca</a>","1907-05-22"
+
+"11","nm0000093","Sun Mar  9 06:51:55 2014","Sun Mar  9 06:51:55 2014","","Brad Pitt","Actor, <a href=""http://www.imdb.com/title/tt0361748/"">Inglourious Basterds</a>","1963-12-18"
+
+"12","nm0000358","Sun Mar  9 06:42:38 2014","Sun Mar  9 06:42:38 2014","","Daniel Day-Lewis","Actor, <a href=""http://www.imdb.com/title/tt0469494/"">There Will Be Blood</a>","1957-04-29"
+
+"13","nm0000129","Sun Mar  9 06:45:05 2014","Sun Mar  9 06:45:05 2014","","Tom Cruise","Actor, <a href=""http://www.imdb.com/title/tt0092099/"">Top Gun</a>","1962-07-03"
+
+"14","nm0000026","Sun Mar  9 06:45:34 2014","Sun Mar  9 06:45:34 2014","","Cary Grant","Actor, <a href=""http://www.imdb.com/title/tt0053125/"">North by Northwest</a>","1904-01-18"
+
+"15","nm0000163","Sun Mar  9 06:43:59 2014","Sun Mar  9 06:43:59 2014","","Dustin Hoffman","Actor, <a href=""http://www.imdb.com/title/tt0079417/"">Kramer vs. Kramer</a>","1937-08-08"
+
+"16","nm0000022","Thu Aug 13 10:07:25 2015","Thu Aug 13 10:07:25 2015","","Clark Gable","Actor, <a href=""http://www.imdb.com/title/tt0025316/"">It Happened One Night</a>","1901-02-01"
+
+"17","nm0000576","Sun Mar  9 06:43:33 2014","Sun Mar  9 06:43:33 2014","","Sean Penn","Actor, <a href=""http://www.imdb.com/title/tt0327056/"">Mystic River</a>","1960-08-17"
+
+"18","nm0000288","Sun Mar  9 06:42:31 2014","Sun Mar  9 06:42:31 2014","","Christian Bale","Actor, <a href=""http://www.imdb.com/title/tt0468569/"">The Dark Knight</a>","1974-01-30"
+
+"19","nm0000060","Fri Apr  3 08:23:34 2015","Fri Apr  3 08:23:34 2015","","Gregory Peck","Actor, <a href=""http://www.imdb.com/title/tt0056592/"">To Kill a Mockingbird</a>","1916-04-05"
+
+"20","nm0000148","Thu Aug 13 10:19:13 2015","Thu Aug 13 10:19:13 2015","","Harrison Ford","Actor, <a href=""http://www.imdb.com/title/tt0076759/"">Star Wars</a>","1942-07-13"
+
+"21","nm0000075","Sun Mar  9 06:52:07 2014","Sun Mar  9 06:52:07 2014","","Spencer Tracy","Actor, <a href=""http://www.imdb.com/title/tt0055031/"">Judgment at Nuremberg</a>","1900-04-05"
+
+"22","nm0000123","Sun Mar  9 06:44:08 2014","Sun Mar  9 06:44:08 2014","","George Clooney","Actor, <a href=""http://www.imdb.com/title/tt1454468/"">Gravity</a>","1961-05-06"
+
+"23","nm0000032","Thu Aug 13 10:20:44 2015","Thu Aug 13 10:20:44 2015","","Charlton Heston","Actor, <a href=""http://www.imdb.com/title/tt0052618/"">Ben-Hur</a>","1923-10-04"
+
+"24","nm0000164","Sun Mar  9 06:44:26 2014","Sun Mar  9 06:44:26 2014","","Anthony Hopkins","Actor, <a href=""http://www.imdb.com/title/tt0212985/"">Hannibal</a>","1937-12-31"
+
+"25","nm0000128","Sun Mar  9 06:45:19 2014","Sun Mar  9 06:45:19 2014","","Russell Crowe","Actor, <a href=""http://www.imdb.com/title/tt0172495/"">Gladiator</a>","1964-04-07"
+
+"51","nm0000078","Sun Mar  9 06:51:40 2014","Sun Mar  9 06:51:40 2014","","John Wayne","Actor, <a href=""http://www.imdb.com/title/tt0049730/"">The Searchers</a>","1907-05-26"
+
+"52","nm0001627","Sun Mar  9 06:51:49 2014","Sun Mar  9 06:51:49 2014","","Sidney Poitier","Actor, <a href=""http://www.imdb.com/title/tt0061811/"">In the Heat of the Night</a>","1927-02-20"
+
+"53","nm0000056","Sun Mar  9 06:52:15 2014","Sun Mar  9 06:52:15 2014","","Paul Newman","Actor, <a href=""http://www.imdb.com/title/tt0064115/"">Butch Cassidy and the Sundance Kid</a>","1925-01-26"
+
+"54","nm0000354","Fri Apr  3 08:24:46 2015","Fri Apr  3 08:24:46 2015","","Matt Damon","Actor, <a href=""http://www.imdb.com/title/tt0258463/"">The Bourne Identity</a>","1970-10-08"
+
+"55","nm0000380","Fri Apr  3 08:24:53 2015","Fri Apr  3 08:24:53 2015","","Robert Duvall","Actor, <a href=""http://www.imdb.com/title/tt0071562/"">The Godfather: Part II</a>","1931-01-05"
+
+"56","nm0000015","Sun Mar  9 06:52:35 2014","Sun Mar  9 06:52:35 2014","","James Dean","Actor, <a href=""http://www.imdb.com/title/tt0048545/"">Rebel Without a Cause</a>","1931-02-08"
+
+"57","nm0000018","Sun Mar  9 06:52:50 2014","Sun Mar  9 06:52:50 2014","","Kirk Douglas","Actor, <a href=""http://www.imdb.com/title/tt0054331/"">Spartacus</a>","1916-12-09"
+
+"58","nm0000020","Sun Mar  9 06:53:21 2014","Sun Mar  9 06:53:21 2014","","Henry Fonda","Actor, <a href=""http://www.imdb.com/title/tt0064116/"">C'era una volta il West</a>","1905-05-16"
+
+"59","nm0000245","Sun Mar  9 06:53:31 2014","Sun Mar  9 06:53:31 2014","","Robin Williams","Actor, <a href=""http://www.imdb.com/title/tt0119217/"">Good Will Hunting</a>","1951-07-21"
+
+"60","nm0000080","Sun Mar  9 06:53:42 2014","Sun Mar  9 06:53:42 2014","","Orson Welles","Actor, <a href=""http://www.imdb.com/title/tt0033467/"">Citizen Kane</a>","1915-05-06"
+
+"61","nm0910607","Sun Mar  9 06:53:48 2014","Sun Mar  9 06:53:48 2014","","Christoph Waltz","Actor, <a href=""http://www.imdb.com/title/tt1853728/"">Django Unchained</a>","1956-10-04"
+
+"62","nm0005132","Sun Mar  9 06:53:58 2014","Sun Mar  9 06:53:58 2014","","Heath Ledger","Actor, <a href=""http://www.imdb.com/title/tt0468569/"">The Dark Knight</a>","1979-04-04"
+
+"63","nm0000125","Sun Mar  9 06:54:06 2014","Sun Mar  9 06:54:06 2014","","Sean Connery","Actor, <a href=""http://www.imdb.com/title/tt0055928/"">Dr. No</a>","1930-08-25"
+
+"64","nm0000228","Sun Mar  9 06:54:12 2014","Sun Mar  9 06:54:12 2014","","Kevin Spacey","Actor, <a href=""http://www.imdb.com/title/tt0169547/"">American Beauty</a>","1959-07-26"
+
+"65","nm0000432","Sun Mar  9 06:54:34 2014","Sun Mar  9 06:54:34 2014","","Gene Hackman","Actor, <a href=""http://www.imdb.com/title/tt0105695/"">Unforgiven</a>","1930-01-30"
+
+"66","nm0000553","Sun Mar  9 06:54:43 2014","Sun Mar  9 06:54:43 2014","","Liam Neeson","Actor, <a href=""http://www.imdb.com/title/tt0108052/"">Schindler's List</a>","1952-06-07"
+
+"67","nm0001570","Sun Mar  9 06:55:18 2014","Sun Mar  9 06:55:18 2014","","Edward Norton","Actor, <a href=""http://www.imdb.com/title/tt0137523/"">Fight Club</a>","1969-08-18"
+
+"68","nm0000246","Sun Mar  9 06:55:26 2014","Sun Mar  9 06:55:26 2014","","Bruce Willis","Actor, <a href=""http://www.imdb.com/title/tt0095016/"">Die Hard</a>","1955-03-19"
+
+"69","nm0000011","Sun Mar  9 06:55:34 2014","Sun Mar  9 06:55:34 2014","","Gary Cooper","Actor, <a href=""http://www.imdb.com/title/tt0044706/"">High Noon</a>","1901-05-07"
+
+"70","nm0000450","Fri Apr  3 08:25:45 2015","Fri Apr  3 08:25:45 2015","","Philip Seymour Hoffman","Actor, <a href=""http://www.imdb.com/title/tt0379725/"">Capote</a>","1967-07-23"
+
+"71","nm0000602","Sun Mar  9 06:55:54 2014","Sun Mar  9 06:55:54 2014","","Robert Redford","Actor, <a href=""http://www.imdb.com/title/tt0064115/"">Butch Cassidy and the Sundance Kid</a>","1936-08-18"
+
+"72","nm0000146","Sun Mar  9 06:56:02 2014","Sun Mar  9 06:56:02 2014","","Ralph Fiennes","Actor, <a href=""http://www.imdb.com/title/tt1201607/"">Harry Potter and the Deathly Hallows: Part 2</a>","1962-12-22"
+
+"73","nm0001618","Sun Mar  9 06:56:24 2014","Sun Mar  9 06:56:24 2014","","Joaquin Phoenix","Actor, <a href=""http://www.imdb.com/title/tt0172495/"">Gladiator</a>","1974-10-28"
+
+"74","nm0000226","Sun Mar  9 06:56:31 2014","Sun Mar  9 06:56:31 2014","","Will Smith","Actor, <a href=""http://www.imdb.com/title/tt0119654/"">Men in Black</a>","1968-09-25"
+
+"75","nm0000537","Thu Aug 13 10:57:30 2015","Thu Aug 13 10:57:30 2015","","Steve McQueen","Actor, <a href=""http://www.imdb.com/title/tt0057115/"">The Great Escape</a>","1930-03-24"
+
+"101","nm0000313","Sun Mar  9 07:04:04 2014","Sun Mar  9 07:04:04 2014","","Jeff Bridges","Actor, <a href=""http://www.imdb.com/title/tt0118715/"">The Big Lebowski</a>","1949-12-04"
+
+"102","nm0252230","Fri Apr  3 08:26:37 2015","Fri Apr  3 08:26:37 2015","","Chiwetel Ejiofor","Actor, <a href=""http://www.imdb.com/title/tt2024544/"">12 Years a Slave</a>","1977-07-10"
+
+"103","nm0001426","Sun Mar  9 07:04:32 2014","Sun Mar  9 07:04:32 2014","","Ben Kingsley","Actor, <a href=""http://www.imdb.com/title/tt0108052/"">Schindler's List</a>","1943-12-31"
+
+"104","nm0000169","Sun Mar  9 07:04:53 2014","Sun Mar  9 07:04:53 2014","","Tommy Lee Jones","Actor, <a href=""http://www.imdb.com/title/tt0477348/"">No Country for Old Men</a>","1946-09-15"
+
+"105","nm0000168","Sun Mar  9 07:05:08 2014","Sun Mar  9 07:05:08 2014","","Samuel L. Jackson","Actor, <a href=""http://www.imdb.com/title/tt0110912/"">Pulp Fiction</a>","1948-12-21"
+
+"106","nm0000493","Thu Aug 13 10:58:45 2015","Thu Aug 13 10:58:45 2015","","Jack Lemmon","Actor, <a href=""http://www.imdb.com/title/tt0053604/"">The Apartment</a>","1925-02-08"
+
+"107","nm0000582","Sun Mar  9 07:05:36 2014","Sun Mar  9 07:05:36 2014","","Joe Pesci","Actor, <a href=""http://www.imdb.com/title/tt0099685/"">Goodfellas</a>","1943-02-09"
+
+"108","nm0001626","Sun Mar  9 07:05:54 2014","Sun Mar  9 07:05:54 2014","","Christopher Plummer","Actor, <a href=""http://www.imdb.com/title/tt0075627/"">Aces High</a>","1929-12-13"
+
+"109","nm0001715","Sun Mar  9 07:06:01 2014","Sun Mar  9 07:06:01 2014","","George C. Scott","Actor, <a href=""http://www.imdb.com/title/tt0057012/"">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a>","1927-10-18"
+
+"110","nm0000151","Thu Aug 13 11:00:09 2015","Thu Aug 13 11:00:09 2015","","Morgan Freeman","Actor, <a href=""http://www.imdb.com/title/tt0111161/"">The Shawshank Redemption</a>","1937-06-01"
+
+"111","nm0000686","Sun Mar  9 07:06:10 2014","Sun Mar  9 07:06:10 2014","","Christopher Walken","Actor, <a href=""http://www.imdb.com/title/tt0264464/"">Catch Me If You Can</a>","1943-03-31"
+
+"112","nm0000237","Sun Mar  9 07:06:16 2014","Sun Mar  9 07:06:16 2014","","John Travolta","Actor, <a href=""http://www.imdb.com/title/tt0110912/"">Pulp Fiction</a>","1954-02-18"
+
+"113","nm0000071","Sun Aug 31 07:27:30 2014","Sun Aug 31 07:27:30 2014","","James Stewart","Actor, <a href=""http://www.imdb.com/title/tt0047396/"">Rear Window</a>","1908-05-20"
+
+"114","nm0000190","Thu Aug 13 11:02:38 2015","Thu Aug 13 11:02:38 2015","","Matthew McConaughey","Actor, <a href=""http://www.imdb.com/title/tt0816692/"">Interstellar</a>","1969-11-04"
+
+"115","nm0000564","Sun Mar  9 07:06:31 2014","Sun Mar  9 07:06:31 2014","","Peter O'Toole","Actor, <a href=""http://www.imdb.com/title/tt0056172/"">Lawrence of Arabia</a>","1932-08-02"
+
+"116","nm0000010","Sun Mar  9 07:06:38 2014","Sun Mar  9 07:06:38 2014","","James Cagney","Actor, <a href=""http://www.imdb.com/title/tt0042041/"">White Heat</a>","1899-07-17"
+
+"117","nm0005212","Sun Mar  9 07:06:56 2014","Sun Mar  9 07:06:56 2014","","Ian McKellen","Actor, <a href=""http://www.imdb.com/title/tt0120737/"">The Lord of the Rings: The Fellowship of the Ring</a>","1939-05-25"
+
+"118","nm0000131","Sun Mar  9 07:07:01 2014","Sun Mar  9 07:07:01 2014","","John Cusack","Actor, <a href=""http://www.imdb.com/title/tt0120601/"">Being John Malkovich</a>","1966-06-28"
+
+"119","nm0000195","Sun Mar  9 07:07:09 2014","Sun Mar  9 07:07:09 2014","","Bill Murray","Actor, <a href=""http://www.imdb.com/title/tt0107048/"">Groundhog Day</a>","1950-09-21"
+
+"120","nm0000375","Thu Aug 13 11:00:22 2015","Thu Aug 13 11:00:22 2015","","Robert Downey Jr.","Actor, <a href=""http://www.imdb.com/title/tt0848228/"">The Avengers</a>","1965-04-04"
+
+"121","nm0000115","Sun Mar  9 07:07:20 2014","Sun Mar  9 07:07:20 2014","","Nicolas Cage","Actor, <a href=""http://www.imdb.com/title/tt0113627/"">Leaving Las Vegas</a>","1964-01-07"
+
+"122","nm0000698","Sun Mar  9 07:08:07 2014","Sun Mar  9 07:08:07 2014","","Gene Wilder","Actor, <a href=""http://www.imdb.com/title/tt0072431/"">Young Frankenstein</a>","1933-06-11"
+
+"123","nm0000126","Sun Mar  9 07:08:14 2014","Sun Mar  9 07:08:14 2014","","Kevin Costner","Actor, <a href=""http://www.imdb.com/title/tt0099348/"">Dances with Wolves</a>","1955-01-18"
+
+"124","nm0000661","Thu Aug 13 11:12:07 2015","Thu Aug 13 11:12:07 2015","","Donald Sutherland","Actor, <a href=""http://www.imdb.com/title/tt0317740/"">The Italian Job</a>","1935-07-17"
+
+"125","nm0001136","Fri Apr  3 08:26:43 2015","Fri Apr  3 08:26:43 2015","","Bruce Dern","Actor, <a href=""http://www.imdb.com/title/tt1821549/"">Nebraska</a>","1936-06-04"
+
+"151","nm0000122","Sun Mar  9 07:17:51 2014","Sun Mar  9 07:17:51 2014","","Charles Chaplin","Writer, <a href=""http://www.imdb.com/title/tt0027977/"">Modern Times</a>","1889-04-16"
+
+"152","nm0000634","Sun Mar  9 07:18:04 2014","Sun Mar  9 07:18:04 2014","","Peter Sellers","Actor, <a href=""http://www.imdb.com/title/tt0057012/"">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a>","1925-09-08"
+
+"153","nm0000095","Sun Mar  9 07:18:10 2014","Sun Mar  9 07:18:10 2014","","Woody Allen","Writer, <a href=""http://www.imdb.com/title/tt1605783/"">Midnight in Paris</a>","1935-12-01"
+
+"154","nm0000685","Sun Mar  9 07:18:23 2014","Sun Mar  9 07:18:23 2014","","Jon Voight","Actor, <a href=""http://www.imdb.com/title/tt0117060/"">Mission: Impossible</a>","1938-12-29"
+
+"155","nm0000154","Sun Mar  9 07:18:29 2014","Sun Mar  9 07:18:29 2014","","Mel Gibson","Actor, <a href=""http://www.imdb.com/title/tt0112573/"">Braveheart</a>","1956-01-03"
+
+"156","nm0000120","Sun Mar  9 07:18:35 2014","Sun Mar  9 07:18:35 2014","","Jim Carrey","Actor, <a href=""http://www.imdb.com/title/tt0338013/"">Eternal Sunshine of the Spotless Mind</a>","1962-01-17"
+
+"157","nm0000242","Sun Mar  9 07:18:44 2014","Sun Mar  9 07:18:44 2014","","Mark Wahlberg","Actor, <a href=""http://www.imdb.com/title/tt0118749/"">Boogie Nights</a>","1971-06-05"
+
+"158","nm0000188","Sun Mar  9 07:18:51 2014","Sun Mar  9 07:18:51 2014","","Steve Martin","Writer, <a href=""http://www.imdb.com/title/tt0086873/"">All of Me</a>","1945-08-14"
+
+"159","nm0000849","Sun Mar  9 07:19:02 2014","Sun Mar  9 07:19:02 2014","","Javier Bardem","Actor, <a href=""http://www.imdb.com/title/tt0477348/"">No Country for Old Men</a>","1969-03-01"
+
+"160","nm0000209","Sun Mar  9 07:19:10 2014","Sun Mar  9 07:19:10 2014","","Tim Robbins","Actor, <a href=""http://www.imdb.com/title/tt0111161/"">The Shawshank Redemption</a>","1958-10-16"
+
+"161","nm0000216","Sun Mar  9 07:19:24 2014","Sun Mar  9 07:19:24 2014","","Arnold Schwarzenegger","Actor, <a href=""http://www.imdb.com/title/tt0088247/"">The Terminator</a>","1947-07-30"
+
+"162","nm0000230","Sun Mar  9 07:19:33 2014","Sun Mar  9 07:19:33 2014","","Sylvester Stallone","Actor, <a href=""http://www.imdb.com/title/tt0075148/"">Rocky</a>","1946-07-06"
+
+"163","nm0001557","Sun Mar  9 07:19:47 2014","Sun Mar  9 07:19:47 2014","","Viggo Mortensen","Actor, <a href=""http://www.imdb.com/title/tt0399146/"">A History of Violence</a>","1958-10-20"
+
+"164","nm0915989","Sun Mar  9 07:19:58 2014","Sun Mar  9 07:19:58 2014","","Hugo Weaving","Actor, <a href=""http://www.imdb.com/title/tt0133093/"">The Matrix</a>","1960-04-04"
+
+"165","nm0000489","Sun Mar  9 07:20:08 2014","Sun Mar  9 07:20:08 2014","","Christopher Lee","Actor, <a href=""http://www.imdb.com/title/tt0120737/"">The Lord of the Rings: The Fellowship of the Ring</a>","1922-05-27"
+
+"166","nm0001691","Sun Mar  9 07:20:15 2014","Sun Mar  9 07:20:15 2014","","Geoffrey Rush","Actor, <a href=""http://www.imdb.com/title/tt0325980/"">Pirates of the Caribbean: The Curse of the Black Pearl</a>","1951-07-06"
+
+"167","nm0000027","Sun Mar  9 07:20:22 2014","Sun Mar  9 07:20:22 2014","","Alec Guinness","Actor, <a href=""http://www.imdb.com/title/tt0076759/"">Star Wars</a>","1914-04-02"
+
+"168","nm0000009","Sun Mar  9 07:20:30 2014","Sun Mar  9 07:20:30 2014","","Richard Burton","Actor, <a href=""http://www.imdb.com/title/tt0061184/"">Who's Afraid of Virginia Woolf?</a>","1925-11-10"
+
+"169","nm0000285","Sun Mar  9 07:20:40 2014","Sun Mar  9 07:20:40 2014","","Alec Baldwin","Actor, <a href=""http://www.imdb.com/title/tt0407887/"">The Departed</a>","1958-04-03"
+
+"170","nm0001001","Sun Mar  9 07:20:48 2014","Sun Mar  9 07:20:48 2014","","James Caan","Actor, <a href=""http://www.imdb.com/title/tt0068646/"">The Godfather</a>","1940-03-26"
+
+"171","nm0000140","Sun Mar  9 07:20:58 2014","Sun Mar  9 07:20:58 2014","","Michael Douglas","Actor, <a href=""http://www.imdb.com/title/tt0119174/"">The Game</a>","1944-09-25"
+
+"172","nm0001774","Sun Mar  9 07:21:07 2014","Sun Mar  9 07:21:07 2014","","Ben Stiller","Producer, <a href=""http://www.imdb.com/title/tt0196229/"">Zoolander</a>","1965-11-30"
+
+"173","nm0000353","Sun Mar  9 07:21:18 2014","Sun Mar  9 07:21:18 2014","","Willem Dafoe","Actor, <a href=""http://www.imdb.com/title/tt0145487/"">Spider-Man</a>","1955-07-22"
+
+"174","nm0000438","Sun Mar  9 07:21:29 2014","Sun Mar  9 07:21:29 2014","","Ed Harris","Actor, <a href=""http://www.imdb.com/title/tt0268978/"">A Beautiful Mind</a>","1950-11-28"
+
+"175","nm0000172","Sun Mar  9 07:21:35 2014","Sun Mar  9 07:21:35 2014","","Harvey Keitel","Actor, <a href=""http://www.imdb.com/title/tt0105236/"">Reservoir Dogs</a>","1939-05-13"
+
+"201","nm0001125","Sun Mar  9 07:28:17 2014","Sun Mar  9 07:28:17 2014","","Benicio Del Toro","Actor, <a href=""http://www.imdb.com/title/tt0208092/"">Snatch.</a>","1967-02-19"
+
+"202","nm0000102","Sun Mar  9 07:28:31 2014","Sun Mar  9 07:28:31 2014","","Kevin Bacon","Actor, <a href=""http://www.imdb.com/title/tt0112384/"">Apollo 13</a>","1958-07-08"
+
+"203","nm0000664","Sun Mar  9 07:28:45 2014","Sun Mar  9 07:28:45 2014","","Patrick Swayze","Actor, <a href=""http://www.imdb.com/title/tt0099653/"">Ghost</a>","1952-08-18"
+
+"204","nm0000323","Sun Mar  9 07:28:50 2014","Sun Mar  9 07:28:50 2014","","Michael Caine","Actor, <a href=""http://www.imdb.com/title/tt0468569/"">The Dark Knight</a>","1933-03-14"
+
+"205","nm0000142","Sun Mar  9 07:29:04 2014","Sun Mar  9 07:29:04 2014","","Clint Eastwood","Actor, <a href=""http://www.imdb.com/title/tt0405159/"">Million Dollar Baby</a>","1930-05-31"
+
+"206","nm0000044","Sun Mar  9 07:29:22 2014","Sun Mar  9 07:29:22 2014","","Burt Lancaster","Actor, <a href=""http://www.imdb.com/title/tt0045793/"">From Here to Eternity</a>","1913-11-02"
+
+"207","nm0000053","Sun Mar  9 07:29:29 2014","Sun Mar  9 07:29:29 2014","","Robert Mitchum","Actor, <a href=""http://www.imdb.com/title/tt0048424/"">The Night of the Hunter</a>","1917-08-06"
+
+"208","nm0268199","Sun Mar  9 07:34:15 2014","Sun Mar  9 07:34:15 2014","","Colin Farrell","Actor, <a href=""http://www.imdb.com/title/tt0183649/"">Phone Booth</a>","1976-05-31"
+
+"209","nm0000034","Sun Mar  9 07:34:31 2014","Sun Mar  9 07:34:31 2014","","William Holden","Actor, <a href=""http://www.imdb.com/title/tt0050212/"">The Bridge on the River Kwai</a>","1918-04-17"
+
+"210","nm0000064","Sun Mar  9 07:34:41 2014","Sun Mar  9 07:34:41 2014","","Edward G. Robinson","Actor, <a href=""http://www.imdb.com/title/tt0036775/"">Double Indemnity</a>","1893-12-12"
+
+"211","nm0001635","Sun Mar  9 07:34:57 2014","Sun Mar  9 07:34:57 2014","","William Powell","Actor, <a href=""http://www.imdb.com/title/tt0025878/"">The Thin Man</a>","1892-07-29"
+
+"212","nm0001224","Sun Mar  9 07:35:11 2014","Sun Mar  9 07:35:11 2014","","Errol Flynn","Actor, <a href=""http://www.imdb.com/title/tt0029843/"">The Adventures of Robin Hood</a>","1909-06-20"
+
+"213","nm0000050","Sun Mar  9 07:35:23 2014","Sun Mar  9 07:35:23 2014","","Groucho Marx","Soundtrack, <a href=""http://www.imdb.com/title/tt0023969/"">Duck Soup</a>","1890-10-02"
+
+"214","nm0000051","Sun Mar  9 07:35:30 2014","Sun Mar  9 07:35:30 2014","","James Mason","Actor, <a href=""http://www.imdb.com/title/tt0053125/"">North by Northwest</a>","1909-05-15"
+
+"215","nm0000036","Sun Mar  9 07:35:39 2014","Sun Mar  9 07:35:39 2014","","Buster Keaton","Actor, <a href=""http://www.imdb.com/title/tt0017925/"">The General</a>","1895-10-04"
+
+"216","nm0000037","Sun Mar  9 07:36:25 2014","Sun Mar  9 07:36:25 2014","","Gene Kelly","Actor, <a href=""http://www.imdb.com/title/tt0045152/"">Singin' in the Rain</a>","1912-08-23"
+
+"217","nm0000001","Sun Mar  9 07:37:43 2014","Sun Mar  9 07:37:43 2014","","Fred Astaire","Soundtrack, <a href=""http://www.imdb.com/title/tt0027125/"">Top Hat</a>","1899-05-10"
+
+"218","nm0177896","Sun Mar  9 07:37:53 2014","Sun Mar  9 07:37:53 2014","","Bradley Cooper","Actor, <a href=""http://www.imdb.com/title/tt1045658/"">Silver Linings Playbook</a>","1975-01-05"
+
+"219","nm0000179","Sun Mar  9 07:38:07 2014","Sun Mar  9 07:38:07 2014","","Jude Law","Actor, <a href=""http://www.imdb.com/title/tt0988045/"">Sherlock Holmes</a>","1972-12-29"
+
+"220","nm1500155","Sun Mar  9 07:38:14 2014","Sun Mar  9 07:38:14 2014","","Robert Pattinson","Actor, <a href=""http://www.imdb.com/title/tt1099212/"">Twilight</a>","1986-05-13"
+
+"221","nm0316079","Sun Mar  9 07:38:21 2014","Sun Mar  9 07:38:21 2014","","Paul Giamatti","Actor, <a href=""http://www.imdb.com/title/tt0375063/"">Sideways</a>","1967-06-06"
+
+"222","nm0001845","Sun Mar  9 07:38:29 2014","Sun Mar  9 07:38:29 2014","","Forest Whitaker","Actor, <a href=""http://www.imdb.com/title/tt0091763/"">Platoon</a>","1961-07-15"
+
+"223","nm0001467","Sun Mar  9 07:38:37 2014","Sun Mar  9 07:38:37 2014","","Jared Leto","Actor, <a href=""http://www.imdb.com/title/tt0180093/"">Requiem for a Dream</a>","1971-12-26"
+
+"224","nm1706767","Sun Mar  9 07:38:46 2014","Sun Mar  9 07:38:46 2014","","Jonah Hill","Actor, <a href=""http://www.imdb.com/title/tt1232829/"">21 Jump Street</a>","1983-12-20"
+
+"225","nm1055413","Sun Mar  9 07:38:57 2014","Sun Mar  9 07:38:57 2014","","Michael Fassbender","Actor, <a href=""http://www.imdb.com/title/tt0361748/"">Inglourious Basterds</a>","1977-04-02"
+
+"251","nm0000273","Sun Mar  9 15:13:47 2014","Sun Mar  9 15:13:47 2014","","Alan Arkin","Actor, <a href=""http://www.imdb.com/title/tt1024648/"">Argo</a>","1934-03-26"
+
+"252","nm1212722","Sun Mar  9 15:14:01 2014","Sun Mar  9 15:14:01 2014","","Benedict Cumberbatch","Actor, <a href=""http://www.imdb.com/title/tt2084970/"">The Imitation Game</a>","1976-07-19"
+
+"253","nm1165110","Sun Mar  9 15:37:13 2014","Sun Mar  9 15:37:13 2014","","Chris Hemsworth","Actor, <a href=""http://www.imdb.com/title/tt0800369/"">Thor</a>","1983-08-11"
+
+"254","nm0147147","Sun Mar  9 15:37:29 2014","Sun Mar  9 15:37:29 2014","","Henry Cavill","Actor, <a href=""http://www.imdb.com/title/tt0770828/"">Man of Steel</a>","1983-05-05"
+
+"255","nm0362766","Sun Mar  9 15:37:35 2014","Sun Mar  9 15:37:35 2014","","Tom Hardy","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1977-09-15"
+
+"256","nm0241121","Sun Mar  9 15:37:55 2014","Sun Mar  9 15:37:55 2014","","Jean Dujardin","Actor, <a href=""http://www.imdb.com/title/tt1655442/"">The Artist</a>","1972-06-19"
+
+"257","nm0000147","Sun Mar  9 15:38:24 2014","Sun Mar  9 15:38:24 2014","","Colin Firth","Actor, <a href=""http://www.imdb.com/title/tt1504320/"">The King's Speech</a>","1960-09-10"
+
+"258","nm0004937","Sun Mar  9 15:38:33 2014","Sun Mar  9 15:38:33 2014","","Jamie Foxx","Actor, <a href=""http://www.imdb.com/title/tt1853728/"">Django Unchained</a>","1967-12-13"
+
+"259","nm0004778","Sun Mar  9 15:38:41 2014","Sun Mar  9 15:38:41 2014","","Adrien Brody","Actor, <a href=""http://www.imdb.com/title/tt0253474/"">The Pianist</a>","1973-04-14"
+
+"260","nm0000905","Sun Mar  9 15:38:55 2014","Sun Mar  9 15:38:55 2014","","Roberto Benigni","Actor, <a href=""http://www.imdb.com/title/tt0118799/"">La vita è bella</a>","1952-10-27"
+
+"261","nm0000460","Sun Mar  9 15:39:04 2014","Sun Mar  9 15:39:04 2014","","Jeremy Irons","Actor, <a href=""http://www.imdb.com/title/tt0110357/"">The Lion King</a>","1948-09-19"
+
+"262","nm0000458","Sun Mar  9 15:39:12 2014","Sun Mar  9 15:39:12 2014","","William Hurt","Actor, <a href=""http://www.imdb.com/title/tt0758758/"">Into the Wild</a>","1950-03-20"
+
+"263","nm0000719","Sun Mar  9 15:39:26 2014","Sun Mar  9 15:39:26 2014","","F. Murray Abraham","Actor, <a href=""http://www.imdb.com/title/tt2278388/"">The Grand Budapest Hotel</a>","1939-10-24"
+
+"264","nm0000377","Sun Mar  9 15:39:41 2014","Sun Mar  9 15:39:41 2014","","Richard Dreyfuss","Actor, <a href=""http://www.imdb.com/title/tt0073195/"">Jaws</a>","1947-10-29"
+
+"265","nm0002075","Sun Mar  9 15:39:54 2014","Sun Mar  9 15:39:54 2014","","Peter Finch","Actor, <a href=""http://www.imdb.com/title/tt0074958/"">Network</a>","1916-09-28"
+
+"266","nm0138770","Sun Mar  9 15:41:16 2014","Sun Mar  9 15:41:16 2014","","Art Carney","Actor, <a href=""http://www.imdb.com/title/tt0071598/"">Harry and Tonto</a>","1918-11-04"
+
+"267","nm0731772","Sun Mar  9 15:41:27 2014","Sun Mar  9 15:41:27 2014","","Cliff Robertson","Actor, <a href=""http://www.imdb.com/title/tt0145487/"">Spider-Man</a>","1923-09-09"
+
+"268","nm0001768","Sun Mar  9 15:41:45 2014","Sun Mar  9 15:41:45 2014","","Rod Steiger","Actor, <a href=""http://www.imdb.com/title/tt0047296/"">On the Waterfront</a>","1925-04-14"
+
+"269","nm0695435","Sun Mar  8 12:10:18 2015","Sun Mar  8 12:10:18 2015","","Chris Pratt","Actor, <a href=""http://www.imdb.com/title/tt2015381/"">Guardians of the Galaxy</a>","1979-06-21"
+
+"270","nm0001511","Sun Mar  9 15:42:06 2014","Sun Mar  9 15:42:06 2014","","Lee Marvin","Actor, <a href=""http://www.imdb.com/title/tt0061578/"">The Dirty Dozen</a>","1924-02-19"
+
+"271","nm0001322","Sun Mar  9 15:42:14 2014","Sun Mar  9 15:42:14 2014","","Rex Harrison","Actor, <a href=""http://www.imdb.com/title/tt0058385/"">My Fair Lady</a>","1908-03-05"
+
+"272","nm0001703","Sun Mar  9 15:42:27 2014","Sun Mar  9 15:42:27 2014","","Maximilian Schell","Actor, <a href=""http://www.imdb.com/title/tt0120647/"">Deep Impact</a>","1930-12-08"
+
+"273","nm0000057","Sun Mar  9 15:42:43 2014","Sun Mar  9 15:42:43 2014","","David Niven","Actor, <a href=""http://www.imdb.com/title/tt0057413/"">The Pink Panther</a>","1910-03-01"
+
+"274","nm0000989","Sun Mar  9 15:42:53 2014","Sun Mar  9 15:42:53 2014","","Yul Brynner","Actor, <a href=""http://www.imdb.com/title/tt0054047/"">The Magnificent Seven</a>","1920-07-11"
+
+"275","nm0000308","Sun Mar  9 15:43:03 2014","Sun Mar  9 15:43:03 2014","","Ernest Borgnine","Actor, <a href=""http://www.imdb.com/title/tt0065214/"">The Wild Bunch</a>","1917-01-24"
+
+"301","nm0001207","Sun Mar  9 15:56:02 2014","Sun Mar  9 15:56:02 2014","","José Ferrer","Actor, <a href=""http://www.imdb.com/title/tt0056172/"">Lawrence of Arabia</a>","1912-01-08"
+
+"302","nm0002024","Sun Mar  9 15:56:23 2014","Sun Mar  9 15:56:23 2014","","Broderick Crawford","Actor, <a href=""http://www.imdb.com/title/tt0041113/"">All the King's Men</a>","1911-12-09"
+
+"303","nm0172903","Sun Mar  9 15:56:33 2014","Sun Mar  9 15:56:33 2014","","Ronald Colman","Actor, <a href=""http://www.imdb.com/title/tt0029162/"">Lost Horizon</a>","1891-02-09"
+
+"304","nm0545298","Sun Mar  9 15:56:43 2014","Sun Mar  9 15:56:43 2014","","Fredric March","Actor, <a href=""http://www.imdb.com/title/tt0036868/"">The Best Years of Our Lives</a>","1897-08-31"
+
+"305","nm0001537","Sun Mar  9 15:56:53 2014","Sun Mar  9 15:56:53 2014","","Ray Milland","Actor, <a href=""http://www.imdb.com/title/tt0046912/"">Dial M for Murder</a>","1905-01-03"
+
+"306","nm0001078","Sun Mar  9 15:56:59 2014","Sun Mar  9 15:56:59 2014","","Bing Crosby","Soundtrack, <a href=""http://www.imdb.com/title/tt0034862/"">Holiday Inn</a>","1903-05-02"
+
+"307","nm0510134","Sun Mar  9 15:57:08 2014","Sun Mar  9 15:57:08 2014","","Paul Lukas","Actor, <a href=""http://www.imdb.com/title/tt0030341/"">The Lady Vanishes</a>","1891-05-26"
+
+"308","nm0232196","Sun Mar  9 15:57:18 2014","Sun Mar  9 15:57:18 2014","","Robert Donat","Actor, <a href=""http://www.imdb.com/title/tt0026029/"">The 39 Steps</a>","1905-03-18"
+
+"309","nm0612847","Sun Mar  9 15:57:27 2014","Sun Mar  9 15:57:27 2014","","Paul Muni","Actor, <a href=""http://www.imdb.com/title/tt0023427/"">Scarface</a>","1895-09-22"
+
+"310","nm0572142","Sun Mar  9 15:57:41 2014","Sun Mar  9 15:57:41 2014","","Victor McLaglen","Actor, <a href=""http://www.imdb.com/title/tt0045061/"">The Quiet Man</a>","1886-12-10"
+
+"311","nm0001452","Sun Mar  9 15:57:57 2014","Sun Mar  9 15:57:57 2014","","Charles Laughton","Actor, <a href=""http://www.imdb.com/title/tt0054331/"">Spartacus</a>","1899-07-01"
+
+"312","nm0000891","Sun Mar  9 15:58:18 2014","Sun Mar  9 15:58:18 2014","","Wallace Beery","Actor, <a href=""http://www.imdb.com/title/tt0022958/"">Grand Hotel</a>","1885-04-01"
+
+"313","nm0000621","Mon Mar 10 07:30:32 2014","Mon Mar 10 07:30:32 2014","","Kurt Russell","Actor, <a href=""http://www.imdb.com/title/tt0084787/"">The Thing</a>","1951-03-17"
+
+"314","nm0000859","Mon Mar 10 07:30:44 2014","Mon Mar 10 07:30:44 2014","","Lionel Barrymore","Actor, <a href=""http://www.imdb.com/title/tt0038650/"">It's a Wonderful Life</a>","1878-04-28"
+
+"315","nm0000156","Mon Mar 10 07:34:11 2014","Mon Mar 10 07:34:11 2014","","Jeff Goldblum","Actor, <a href=""http://www.imdb.com/title/tt0107290/"">Jurassic Park</a>","1952-10-22"
+
+"316","nm0062828","Mon Mar 10 07:34:27 2014","Mon Mar 10 07:34:27 2014","","Warner Baxter","Actor, <a href=""http://www.imdb.com/title/tt0024034/"">42nd Street</a>","1889-03-29"
+
+"317","nm0417837","Mon Mar 10 07:34:53 2014","Mon Mar 10 07:34:53 2014","","Emil Jannings","Actor, <a href=""http://www.imdb.com/title/tt0020697/"">Der blaue Engel</a>","1884-07-23"
+
+"318","nm0177933","Mon Mar 10 07:35:31 2014","Mon Mar 10 07:35:31 2014","","Chris Cooper","Actor, <a href=""http://www.imdb.com/title/tt0169547/"">American Beauty</a>","1951-07-09"
+
+"319","nm0000980","Mon Mar 10 07:35:41 2014","Mon Mar 10 07:35:41 2014","","Jim Broadbent","Actor, <a href=""http://www.imdb.com/title/tt0203009/"">Moulin Rouge!</a>","1949-05-24"
+
+"320","nm0000336","Mon Mar 10 07:35:53 2014","Mon Mar 10 07:35:53 2014","","James Coburn","Actor, <a href=""http://www.imdb.com/title/tt0198781/"">Monsters, Inc.</a>"
+
+"321","nm0000421","Mon Mar 10 07:36:05 2014","Mon Mar 10 07:36:05 2014","","Cuba Gooding Jr.","Actor, <a href=""http://www.imdb.com/title/tt0116695/"">Jerry Maguire</a>","1968-01-02"
+
+"322","nm0001445","Mon Mar 10 07:36:14 2014","Mon Mar 10 07:36:14 2014","","Martin Landau","Actor, <a href=""http://www.imdb.com/title/tt0109707/"">Ed Wood</a>","1928-06-20"
+
+"323","nm0001588","Mon Mar 10 07:36:27 2014","Mon Mar 10 07:36:27 2014","","Jack Palance","Actor, <a href=""http://www.imdb.com/title/tt0096895/"">Batman</a>","1919-02-18"
+
+"324","nm0000177","Mon Mar 10 07:36:36 2014","Mon Mar 10 07:36:36 2014","","Kevin Kline","Actor, <a href=""http://www.imdb.com/title/tt0095159/"">A Fish Called Wanda</a>","1947-10-24"
+
+"325","nm0000747","Mon Mar 10 07:36:50 2014","Mon Mar 10 07:36:50 2014","","Don Ameche","Actor, <a href=""http://www.imdb.com/title/tt0088933/"">Cocoon</a>","1908-05-31"
+
+"351","nm0628955","Mon Mar 10 09:03:33 2014","Mon Mar 10 09:03:33 2014","","Haing S. Ngor","Actor, <a href=""http://www.imdb.com/title/tt0087553/"">The Killing Fields</a>","1940-03-22"
+
+"352","nm0001283","Mon Mar 10 09:03:52 2014","Mon Mar 10 09:03:52 2014","","Louis Gossett Jr.","Actor, <a href=""http://www.imdb.com/title/tt0089092/"">Enemy Mine</a>","1936-05-27"
+
+"353","nm0000024","Mon Mar 10 09:04:05 2014","Mon Mar 10 09:04:05 2014","","John Gielgud","Actor, <a href=""http://www.imdb.com/title/tt0083987/"">Gandhi</a>","1904-04-14"
+
+"354","nm0000459","Mon Mar 10 09:04:19 2014","Mon Mar 10 09:04:19 2014","","Timothy Hutton","Actor, <a href=""http://www.imdb.com/title/tt1139328/"">The Ghost Writer</a>","1960-08-16"
+
+"355","nm0002048","Mon Mar 10 09:04:36 2014","Mon Mar 10 09:04:36 2014","","Melvyn Douglas","Actor, <a href=""http://www.imdb.com/title/tt0078841/"">Being There</a>","1901-04-05"
+
+"356","nm0001673","Mon Mar 10 09:04:47 2014","Mon Mar 10 09:04:47 2014","","Jason Robards","Actor, <a href=""http://www.imdb.com/title/tt0064116/"">C'era una volta il West</a>","1922-07-26"
+
+"357","nm0122675","Mon Mar 10 09:04:57 2014","Mon Mar 10 09:04:57 2014","","George Burns","Actor, <a href=""http://www.imdb.com/title/tt0076489/"">Oh, God!</a>"
+
+"358","nm0002144","Mon Mar 10 09:05:28 2014","Mon Mar 10 09:05:28 2014","","John Houseman","Actor, <a href=""http://www.imdb.com/title/tt0080749/"">The Fog</a>","1902-09-22"
+
+"359","nm0000160","Mon Mar 10 09:10:15 2014","Mon Mar 10 09:10:15 2014","","Ethan Hawke","Actor, <a href=""http://www.imdb.com/title/tt0139654/"">Training Day</a>","1970-11-06"
+
+"360","nm0424565","Mon Mar 10 09:10:26 2014","Mon Mar 10 09:10:26 2014","","Ben Johnson","Actor, <a href=""http://www.imdb.com/title/tt0067328/"">The Last Picture Show</a>","1918-06-13"
+
+"361","nm0590055","Mon Mar 10 09:10:35 2014","Mon Mar 10 09:10:35 2014","","John Mills","Actor, <a href=""http://www.imdb.com/title/tt0083987/"">Gandhi</a>","1908-02-22"
+
+"362","nm0949574","Mon Mar 10 09:10:57 2014","Mon Mar 10 09:10:57 2014","","Gig Young","Actor, <a href=""http://www.imdb.com/title/tt0065088/"">They Shoot Horses, Don't They?</a>"
+
+"363","nm0016776","Mon Mar 10 09:11:07 2014","Mon Mar 10 09:11:07 2014","","Jack Albertson","Actor, <a href=""http://www.imdb.com/title/tt0067992/"">Willy Wonka & the Chocolate Factory</a>","1907-06-16"
+
+"364","nm0001421","Mon Mar 10 09:11:17 2014","Mon Mar 10 09:11:17 2014","","George Kennedy","Actor, <a href=""http://www.imdb.com/title/tt0061512/"">Cool Hand Luke</a>","1925-02-18"
+
+"365","nm0000527","Mon Mar 10 09:12:24 2014","Mon Mar 10 09:12:24 2014","","Walter Matthau","Actor, <a href=""http://www.imdb.com/title/tt0063374/"">The Odd Couple</a>","1920-10-01"
+
+"366","nm0000842","Mon Mar 10 09:13:06 2014","Mon Mar 10 09:13:06 2014","","Martin Balsam","Actor, <a href=""http://www.imdb.com/title/tt0050083/"">12 Angry Men</a>","1919-11-04"
+
+"367","nm0001811","Mon Mar 10 09:13:20 2014","Mon Mar 10 09:13:20 2014","","Peter Ustinov","Actor, <a href=""http://www.imdb.com/title/tt0070608/"">Robin Hood</a>","1921-04-16"
+
+"368","nm0003225","Mon Mar 10 09:13:45 2014","Mon Mar 10 09:13:45 2014","","Ed Begley","Actor, <a href=""http://www.imdb.com/title/tt0050083/"">12 Angry Men</a>","1901-03-25"
+
+"369","nm0001995","Mon Mar 10 09:14:02 2014","Mon Mar 10 09:14:02 2014","","George Chakiris","Actor, <a href=""http://www.imdb.com/title/tt0055614/"">West Side Story</a>","1934-09-16"
+
+"370","nm0341518","Mon Mar 10 09:14:33 2014","Mon Mar 10 09:14:33 2014","","Hugh Griffith","Actor, <a href=""http://www.imdb.com/title/tt0052618/"">Ben-Hur</a>","1912-05-30"
+
+"371","nm0412322","Mon Mar 10 09:14:55 2014","Mon Mar 10 09:14:55 2014","","Burl Ives","Actor, <a href=""http://www.imdb.com/title/tt0058536/"">Rudolph, the Red-Nosed Reindeer</a>"
+
+"372","nm0000999","Mon Mar 10 09:15:04 2014","Mon Mar 10 09:15:04 2014","","Red Buttons","Actor, <a href=""http://www.imdb.com/title/tt0069113/"">The Poseidon Adventure</a>","1919-02-05"
+
+"373","nm0000063","Mon Mar 10 09:15:21 2014","Mon Mar 10 09:15:21 2014","","Anthony Quinn","Actor, <a href=""http://www.imdb.com/title/tt0056172/"">Lawrence of Arabia</a>","1915-04-21"
+
+"374","nm0639529","Mon Mar 10 09:15:54 2014","Mon Mar 10 09:15:54 2014","","Edmond O'Brien","Actor, <a href=""http://www.imdb.com/title/tt0065214/"">The Wild Bunch</a>","1915-09-10"
+
+"375","nm0000069","Mon Mar 10 09:16:14 2014","Mon Mar 10 09:16:14 2014","","Frank Sinatra","Soundtrack, <a href=""http://www.imdb.com/title/tt0045793/"">From Here to Eternity</a>","1915-12-12"
+
+"401","nm0000063","Mon Mar 10 09:35:12 2014","Mon Mar 10 09:35:12 2014","","Anthony Quinn","Actor, <a href=""http://www.imdb.com/title/tt0056172/"">Lawrence of Arabia</a>","1915-04-21"
+
+"402","nm0001695","Mon Mar 10 09:35:32 2014","Mon Mar 10 09:35:32 2014","","George Sanders","Actor, <a href=""http://www.imdb.com/title/tt0042192/"">All About Eve</a>","1906-07-03"
+
+"403","nm0415591","Mon Mar 10 09:35:44 2014","Mon Mar 10 09:35:44 2014","","Dean Jagger","Actor, <a href=""http://www.imdb.com/title/tt0047673/"">White Christmas</a>","1903-11-07"
+
+"404","nm0404158","Mon Mar 10 09:35:52 2014","Mon Mar 10 09:35:52 2014","","Walter Huston","Actor, <a href=""http://www.imdb.com/title/tt0040897/"">The Treasure of the Sierra Madre</a>","1883-04-05"
+
+"405","nm0350324","Mon Mar 10 09:36:10 2014","Mon Mar 10 09:36:10 2014","","Edmund Gwenn","Actor, <a href=""http://www.imdb.com/title/tt0048750/"">The Trouble with Harry</a>","1877-09-26"
+
+"406","nm0751174","Mon Mar 10 09:37:34 2014","Mon Mar 10 09:37:34 2014","","Harold Russell","Actor, <a href=""http://www.imdb.com/title/tt0036868/"">The Best Years of Our Lives</a>","1914-01-14"
+
+"407","nm0000424","Mon Mar 10 09:42:19 2014","Mon Mar 10 09:42:19 2014","","Hugh Grant","Actor, <a href=""http://www.imdb.com/title/tt0276751/"">About a Boy</a>","1960-09-09"
+
+"408","nm0280178","Mon Mar 10 09:42:31 2014","Mon Mar 10 09:42:31 2014","","Barry Fitzgerald","Actor, <a href=""http://www.imdb.com/title/tt0045061/"">The Quiet Man</a>","1888-03-10"
+
+"409","nm0002013","Mon Mar 10 09:42:42 2014","Mon Mar 10 09:42:42 2014","","Charles Coburn","Actor, <a href=""http://www.imdb.com/title/tt0045810/"">Gentlemen Prefer Blondes</a>","1877-06-19"
+
+"410","nm0001336","Mon Mar 10 09:43:05 2014","Mon Mar 10 09:43:05 2014","","Van Heflin","Actor, <a href=""http://www.imdb.com/title/tt0046303/"">Shane</a>","1908-12-13"
+
+"411","nm0187981","Mon Mar 10 09:43:18 2014","Mon Mar 10 09:43:18 2014","","Donald Crisp","Actor, <a href=""http://www.imdb.com/title/tt0033729/"">How Green Was My Valley</a>","1882-07-27"
+
+"412","nm0593775","Mon Mar 10 09:43:27 2014","Mon Mar 10 09:43:27 2014","","Thomas Mitchell","Actor, <a href=""http://www.imdb.com/title/tt0031381/"">Gone with the Wind</a>","1892-07-11"
+
+"413","nm0000974","Mon Mar 10 09:44:25 2014","Mon Mar 10 09:44:25 2014","","Walter Brennan","Actor, <a href=""http://www.imdb.com/title/tt0053221/"">Rio Bravo</a>","1894-07-25"
+
+"414","nm0771584","Mon Mar 10 09:44:35 2014","Mon Mar 10 09:44:35 2014","","Joseph Schildkraut","Actor, <a href=""http://www.imdb.com/title/tt0052738/"">The Diary of Anne Frank</a>","1896-03-22"
+
+"415","nm0000206","Mon Mar 10 09:44:47 2014","Mon Mar 10 09:44:47 2014","","Keanu Reeves","Actor, <a href=""http://www.imdb.com/title/tt0133093/"">The Matrix</a>","1964-09-02"
+
+"416","nm1475594","Mon Mar 10 09:44:55 2014","Mon Mar 10 09:44:55 2014","","Channing Tatum","Actor, <a href=""http://www.imdb.com/title/tt1232829/"">21 Jump Street</a>","1980-04-26"
+
+"417","nm0413168","Mon Mar 10 09:45:03 2014","Mon Mar 10 09:45:03 2014","","Hugh Jackman","Actor, <a href=""http://www.imdb.com/title/tt0482571/"">The Prestige</a>","1968-10-12"
+
+"418","nm0425005","Mon Mar 10 09:45:12 2014","Mon Mar 10 09:45:12 2014","","Dwayne Johnson","Actor, <a href=""http://www.imdb.com/title/tt1905041/"">Furious 6</a>","1972-05-02"
+
+"419","nm0001191","Mon Mar 10 09:45:24 2014","Mon Mar 10 09:45:24 2014","","Adam Sandler","Actor, <a href=""http://www.imdb.com/title/tt2191701/"">Grown Ups 2</a>","1966-09-09"
+
+"420","nm0705356","Mon Mar 10 09:45:35 2014","Mon Mar 10 09:45:35 2014","","Daniel Radcliffe","Actor, <a href=""http://www.imdb.com/title/tt0304141/"">Harry Potter and the Prisoner of Azkaban</a>","1989-07-23"
+
+"421","nm0185819","Mon Mar 10 09:45:43 2014","Mon Mar 10 09:45:43 2014","","Daniel Craig","Actor, <a href=""http://www.imdb.com/title/tt1074638/"">Skyfall</a>","1968-03-02"
+
+"422","nm0331516","Mon Mar 10 09:45:51 2014","Mon Mar 10 09:45:51 2014","","Ryan Gosling","Actor, <a href=""http://www.imdb.com/title/tt0780504/"">Drive</a>","1980-11-12"
+
+"423","nm0004874","Mon Mar 10 09:46:15 2014","Mon Mar 10 09:46:15 2014","","Vin Diesel","Actor, <a href=""http://www.imdb.com/title/tt1905041/"">Furious 6</a>","1967-07-18"
+
+"424","nm0000255","Mon Mar 10 09:46:00 2014","Mon Mar 10 09:46:00 2014","","Ben Affleck","Actor, <a href=""http://www.imdb.com/title/tt1024648/"">Argo</a>","1972-08-15"
+
+"425","nm1517976","Mon Mar 10 09:46:26 2014","Mon Mar 10 09:46:26 2014","","Chris Pine","Actor, <a href=""http://www.imdb.com/title/tt0796366/"">Star Trek</a>","1980-08-26"
+
+"451","nm1940449","Mon Mar 10 09:58:38 2014","Mon Mar 10 09:58:38 2014","","Andrew Garfield","Actor, <a href=""http://www.imdb.com/title/tt0948470/"">The Amazing Spider-Man</a>","1983-08-20"
+
+"452","nm0719637","Mon Mar 10 09:58:47 2014","Mon Mar 10 09:58:47 2014","","Jeremy Renner","Actor, <a href=""http://www.imdb.com/title/tt0887912/"">The Hurt Locker</a>","1971-01-07"
+
+"453","nm0136797","Mon Mar 10 09:58:59 2014","Mon Mar 10 09:58:59 2014","","Steve Carell","Actor, <a href=""http://www.imdb.com/title/tt1248736/"">Stress Relief</a>","1962-08-16"
+
+"454","nm0350453","Mon Mar 10 09:59:08 2014","Mon Mar 10 09:59:08 2014","","Jake Gyllenhaal","Actor, <a href=""http://www.imdb.com/title/tt0246578/"">Donnie Darko</a>","1980-12-19"
+
+"455","nm0262635","Mon Mar 10 09:59:19 2014","Mon Mar 10 09:59:19 2014","","Chris Evans","Actor, <a href=""http://www.imdb.com/title/tt0848228/"">The Avengers</a>","1981-06-13"
+
+"456","nm0290556","Mon Mar 10 09:59:29 2014","Mon Mar 10 09:59:29 2014","","James Franco","Actor, <a href=""http://www.imdb.com/title/tt1542344/"">127 Hours</a>","1978-04-19"
+
+"457","nm0302108","Mon Mar 10 09:59:48 2014","Mon Mar 10 09:59:48 2014","","Zach Galifianakis","Actor, <a href=""http://www.imdb.com/title/tt1119646/"">The Hangover</a>","1969-10-01"
+
+"458","nm0002071","Mon Mar 10 10:00:10 2014","Mon Mar 10 10:00:10 2014","","Will Ferrell","Actor, <a href=""http://www.imdb.com/title/tt0838283/"">Step Brothers</a>","1967-07-16"
+
+"459","nm0479471","Mon Mar 10 10:00:38 2014","Mon Mar 10 10:00:38 2014","","Shia LaBeouf","Actor, <a href=""http://www.imdb.com/title/tt0418279/"">Transformers</a>","1986-06-11"
+
+"460","nm0736622","Mon Mar 10 10:00:50 2014","Mon Mar 10 10:00:50 2014","","Seth Rogen","Actor, <a href=""http://www.imdb.com/title/tt1245492/"">This Is the End</a>","1982-04-15"
+
+"461","nm0330687","Mon Mar 10 10:01:22 2014","Mon Mar 10 10:01:22 2014","","Joseph Gordon-Levitt","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1981-02-17"
+
+"462","nm0005351","Mon Mar 10 10:01:30 2014","Mon Mar 10 10:01:30 2014","","Ryan Reynolds","Actor, <a href=""http://www.imdb.com/title/tt1133985/"">Green Lantern</a>","1976-10-23"
+
+"463","nm0748620","Mon Mar 10 10:01:46 2014","Mon Mar 10 10:01:46 2014","","Paul Rudd","Actor, <a href=""http://www.imdb.com/title/tt0478970/"">Ant-Man</a>","1969-04-06"
+
+"464","nm0781981","Mon Mar 10 10:01:53 2014","Mon Mar 10 10:01:53 2014","","Jason Segel","Actor, <a href=""http://www.imdb.com/title/tt1323594/"">Despicable Me</a>","1980-01-18"
+
+"465","nm0005458","Mon Mar 10 10:02:03 2014","Mon Mar 10 10:02:03 2014","","Jason Statham","Actor, <a href=""http://www.imdb.com/title/tt0293662/"">The Transporter</a>","1967-07-26"
+
+"466","nm0005493","Mon Mar 10 10:02:10 2014","Mon Mar 10 10:02:10 2014","","Justin Timberlake","Soundtrack, <a href=""http://www.imdb.com/title/tt0314331/"">Love Actually</a>","1981-01-31"
+
+"467","nm1500155","Thu Aug 13 10:50:27 2015","Thu Aug 13 10:50:27 2015","","Robert Pattinson","Actor, <a href=""http://www.imdb.com/title/tt1099212/"">Twilight</a>","1986-05-13"
+
+"468","nm1374980","Mon Mar 10 10:02:22 2014","Mon Mar 10 10:02:22 2014","","Zac Efron","Actor, <a href=""http://www.imdb.com/title/tt0974661/"">17 Again</a>","1987-10-18"
+
+"469","nm0251986","Mon Mar 10 10:02:30 2014","Mon Mar 10 10:02:30 2014","","Jesse Eisenberg","Actor, <a href=""http://www.imdb.com/title/tt1285016/"">The Social Network</a>","1983-10-05"
+
+"470","nm0005562","Mon Mar 10 10:02:37 2014","Mon Mar 10 10:02:37 2014","","Owen Wilson","Actor, <a href=""http://www.imdb.com/title/tt1605783/"">Midnight in Paris</a>","1968-11-18"
+
+"471","nm0000867","Mon Mar 10 10:05:30 2014","Mon Mar 10 10:05:30 2014","","Jason Bateman","Actor, <a href=""http://www.imdb.com/title/tt1499658/"">Horrible Bosses</a>","1969-01-14"
+
+"472","nm1347153","Mon Mar 10 10:05:39 2014","Mon Mar 10 10:05:39 2014","","Tyler Perry","Director, <a href=""http://www.imdb.com/title/tt2070862/"">Temptation: Confessions of a Marriage Counselor</a>","1969-09-14"
+
+"473","nm2955013","Mon Mar 10 10:05:47 2014","Mon Mar 10 10:05:47 2014","","Liam Hemsworth","Actor, <a href=""http://www.imdb.com/title/tt1951264/"">The Hunger Games: Catching Fire</a>","1990-01-13"
+
+"474","nm0000638","Mon Mar 10 10:06:31 2014","Mon Mar 10 10:06:31 2014","","William Shatner","Actor, <a href=""http://www.imdb.com/title/tt0084726/"">Star Trek: The Wrath of Khan</a>","1931-03-22"
+
+"475","nm0451321","Mon Mar 10 10:06:43 2014","Mon Mar 10 10:06:43 2014","","Shah Rukh Khan","Actor, <a href=""http://www.imdb.com/title/tt1188996/"">My Name Is Khan</a>","1965-11-02"
+
+"501","nm1242688","Mon Mar 10 10:54:31 2014","Mon Mar 10 10:54:31 2014","","Josh Hutcherson","Actor, <a href=""http://www.imdb.com/title/tt1951265/"">The Hunger Games: Mockingjay - Part 1</a>","1992-10-12"
+
+"502","nm0402271","Mon Mar 10 10:54:39 2014","Mon Mar 10 10:54:39 2014","","Charlie Hunnam","Actor, <a href=""http://www.imdb.com/title/tt1663662/"">Pacific Rim</a>","1980-04-10"
+
+"503","nm0396558","Mon Mar 10 10:54:46 2014","Mon Mar 10 10:54:46 2014","","Nicholas Hoult","Actor, <a href=""http://www.imdb.com/title/tt1392190/"">Mad Max: Fury Road</a>","1989-12-07"
+
+"504","nm1093951","Mon Mar 10 10:55:07 2014","Mon Mar 10 10:55:07 2014","","Aaron Taylor-Johnson","Actor, <a href=""http://www.imdb.com/title/tt1250777/"">Kick-Ass</a>","1990-06-13"
+
+"505","nm0186505","Mon Mar 10 10:55:15 2014","Mon Mar 10 10:55:15 2014","","Bryan Cranston","Actor, <a href=""http://www.imdb.com/title/tt2301451/"">Ozymandias</a>","1956-03-07"
+
+"506","nm0124930","Mon Mar 10 10:55:23 2014","Mon Mar 10 10:55:23 2014","","Gerard Butler","Actor, <a href=""http://www.imdb.com/title/tt0416449/"">300</a>","1969-11-13"
+
+"507","nm0908094","Mon Mar 10 10:55:29 2014","Mon Mar 10 10:55:29 2014","","Paul Walker","Actor, <a href=""http://www.imdb.com/title/tt0232500/"">The Fast and the Furious</a>","1973-09-12"
+
+"508","nm0881631","Mon Mar 10 10:55:38 2014","Mon Mar 10 10:55:38 2014","","Karl Urban","Actor, <a href=""http://www.imdb.com/title/tt1343727/"">Dredd</a>","1972-06-07"
+
+"509","nm0503567","Mon Mar 10 10:56:13 2014","Mon Mar 10 10:56:13 2014","","Logan Lerman","Actor, <a href=""http://www.imdb.com/title/tt1659337/"">The Perks of Being a Wallflower</a>","1992-01-19"
+
+"510","nm2002649","Mon Mar 10 10:56:20 2014","Mon Mar 10 10:56:20 2014","","Dave Franco","Actor, <a href=""http://www.imdb.com/title/tt1232829/"">21 Jump Street</a>","1985-06-12"
+
+"511","nm1089991","Mon Mar 10 10:56:29 2014","Mon Mar 10 10:56:29 2014","","Tom Hiddleston","Actor, <a href=""http://www.imdb.com/title/tt0848228/"">The Avengers</a>","1981-02-09"
+
+"512","nm0227759","Mon Mar 10 10:56:37 2014","Mon Mar 10 10:56:37 2014","","Peter Dinklage","Actor, <a href=""http://www.imdb.com/title/tt1877832/"">X-Men: Days of Future Past</a>","1969-06-11"
+
+"513","nm2018237","Mon Mar 10 10:56:58 2014","Mon Mar 10 10:56:58 2014","","Taylor Kitsch","Actor, <a href=""http://www.imdb.com/title/tt0401729/"">John Carter</a>","1981-04-08"
+
+"514","nm1641117","Mon Mar 10 10:57:09 2014","Mon Mar 10 10:57:09 2014","","Alex Pettyfer","Actor, <a href=""http://www.imdb.com/title/tt1464540/"">I Am Number Four</a>","1990-04-10"
+
+"515","nm0001602","Mon Mar 10 10:57:17 2014","Mon Mar 10 10:57:17 2014","","Guy Pearce","Actor, <a href=""http://www.imdb.com/title/tt0209144/"">Memento</a>","1967-10-05"
+
+"516","nm0749263","Mon Mar 10 10:57:29 2014","Mon Mar 10 10:57:29 2014","","Mark Ruffalo","Actor, <a href=""http://www.imdb.com/title/tt0848228/"">The Avengers</a>","1967-11-22"
+
+"517","nm0000620","Mon Mar 10 10:57:45 2014","Mon Mar 10 10:57:45 2014","","Mickey Rourke","Actor, <a href=""http://www.imdb.com/title/tt1125849/"">The Wrestler</a>","1952-09-16"
+
+"518","nm0001449","Mon Mar 10 10:58:08 2014","Mon Mar 10 10:58:08 2014","","Frank Langella","Actor, <a href=""http://www.imdb.com/title/tt0870111/"">Frost/Nixon</a>","1938-01-01"
+
+"519","nm1519666","Sun Mar  8 12:11:04 2015","Sun Mar  8 12:11:04 2015","","Eddie Redmayne","Actor, <a href=""http://www.imdb.com/title/tt2980516/"">The Theory of Everything</a>","1982-01-06"
+
+"520","nm0000657","Mon Mar 10 10:58:31 2014","Mon Mar 10 10:58:31 2014","","David Strathairn","Actor, <a href=""http://www.imdb.com/title/tt0440963/"">The Bourne Ultimatum</a>","1949-01-26"
+
+"521","nm0005024","Mon Mar 10 10:58:43 2014","Mon Mar 10 10:58:43 2014","","Terrence Howard","Actor, <a href=""http://www.imdb.com/title/tt0371746/"">Iron Man</a>","1969-03-11"
+
+"522","nm0000332","Mon Mar 10 10:58:51 2014","Mon Mar 10 10:58:51 2014","","Don Cheadle","Actor, <a href=""http://www.imdb.com/title/tt0375679/"">Crash</a>","1964-11-29"
+
+"523","nm0929489","Mon Mar 10 10:58:59 2014","Mon Mar 10 10:58:59 2014","","Tom Wilkinson","Actor, <a href=""http://www.imdb.com/title/tt0372784/"">Batman Begins</a>","1948-02-05"
+
+"524","nm0002070","Mon Mar 10 11:00:08 2014","Mon Mar 10 11:00:08 2014","","Richard Farnsworth","Actor, <a href=""http://www.imdb.com/title/tt0100157/"">Misery</a>","1920-09-01"
+
+"525","nm0000560","Mon Mar 10 11:00:18 2014","Mon Mar 10 11:00:18 2014","","Nick Nolte","Actor, <a href=""http://www.imdb.com/title/tt0120863/"">The Thin Red Line</a>","1941-02-08"
+
+"551","nm0001228","Mon Mar 10 11:06:14 2014","Mon Mar 10 11:06:14 2014","","Peter Fonda","Actor, <a href=""http://www.imdb.com/title/tt0064276/"">Easy Rider</a>","1940-02-23"
+
+"552","nm0000437","Mon Mar 10 11:06:24 2014","Mon Mar 10 11:06:24 2014","","Woody Harrelson","Actor, <a href=""http://www.imdb.com/title/tt0477348/"">No Country for Old Men</a>","1961-07-23"
+
+"553","nm0000671","Mon Mar 10 11:06:32 2014","Mon Mar 10 11:06:32 2014","","Billy Bob Thornton","Actor, <a href=""http://www.imdb.com/title/tt0120591/"">Armageddon</a>","1955-08-04"
+
+"554","nm0252961","Mon Mar 10 11:07:45 2014","Mon Mar 10 11:07:45 2014","","Idris Elba","Actor, <a href=""http://www.imdb.com/title/tt1446714/"">Prometheus</a>","1972-09-06"
+
+"555","nm0001329","Mon Mar 10 11:08:05 2014","Mon Mar 10 11:08:05 2014","","Nigel Hawthorne","Actor, <a href=""http://www.imdb.com/title/tt0118607/"">Amistad</a>","1929-04-05"
+
+"556","nm0000401","Mon Mar 10 11:08:19 2014","Mon Mar 10 11:08:19 2014","","Laurence Fishburne","Actor, <a href=""http://www.imdb.com/title/tt0133093/"">The Matrix</a>","1961-07-30"
+
+"557","nm0001653","Mon Mar 10 11:08:27 2014","Mon Mar 10 11:08:27 2014","","Stephen Rea","Actor, <a href=""http://www.imdb.com/title/tt0434409/"">V for Vendetta</a>","1946-10-31"
+
+"558","nm0000886","Mon Mar 10 11:08:37 2014","Mon Mar 10 11:08:37 2014","","Warren Beatty","Actor, <a href=""http://www.imdb.com/title/tt0061418/"">Bonnie and Clyde</a>","1937-03-30"
+
+"559","nm0000367","Mon Mar 10 11:08:49 2014","Mon Mar 10 11:08:49 2014","","Gérard Depardieu","Actor, <a href=""http://www.imdb.com/title/tt0454876/"">Life of Pi</a>","1948-12-27"
+
+"560","nm0001321","Mon Mar 10 11:09:00 2014","Mon Mar 10 11:09:00 2014","","Richard Harris","Actor, <a href=""http://www.imdb.com/title/tt0241527/"">Harry Potter and the Sorcerer's Stone</a>","1930-10-01"
+
+"561","nm0000110","Mon Mar 10 11:09:10 2014","Mon Mar 10 11:09:10 2014","","Kenneth Branagh","Actor, <a href=""http://www.imdb.com/title/tt0985699/"">Valkyrie</a>","1960-12-10"
+
+"562","nm0001579","Mon Mar 10 11:09:21 2014","Mon Mar 10 11:09:21 2014","","Edward James Olmos","Actor, <a href=""http://www.imdb.com/title/tt0083658/"">Blade Runner</a>","1947-02-24"
+
+"563","nm0001884","Mon Mar 10 11:09:37 2014","Mon Mar 10 11:09:37 2014","","Max von Sydow","Actor, <a href=""http://www.imdb.com/title/tt1130884/"">Shutter Island</a>","1929-04-10"
+
+"564","nm0000052","Mon Mar 10 11:10:52 2014","Mon Mar 10 11:10:52 2014","","Marcello Mastroianni","Actor, <a href=""http://www.imdb.com/title/tt0056801/"">8½</a>","1924-09-28"
+
+"565","nm0001364","Mon Mar 10 11:11:40 2014","Mon Mar 10 11:11:40 2014","","Bob Hoskins","Actor, <a href=""http://www.imdb.com/title/tt0096438/"">Who Framed Roger Rabbit</a>","1942-10-26"
+
+"566","nm0000249","Mon Mar 10 11:11:48 2014","Mon Mar 10 11:11:48 2014","","James Woods","Actor, <a href=""http://www.imdb.com/title/tt0087843/"">Once Upon a Time in America</a>","1947-04-18"
+
+"567","nm0370035","Mon Mar 10 11:12:37 2014","Mon Mar 10 11:12:37 2014","","John Hawkes","Actor, <a href=""http://www.imdb.com/title/tt0765429/"">American Gangster</a>","1959-09-11"
+
+"568","nm0001258","Mon Mar 10 11:12:50 2014","Mon Mar 10 11:12:50 2014","","James Garner","Actor, <a href=""http://www.imdb.com/title/tt0332280/"">The Notebook</a>","1928-04-07"
+
+"569","nm0001832","Mon Mar 10 11:12:59 2014","Mon Mar 10 11:12:59 2014","","Sam Waterston","Actor, <a href=""http://www.imdb.com/title/tt0087553/"">The Killing Fields</a>","1940-11-15"
+
+"570","nm0001371","Mon Mar 10 11:13:05 2014","Mon Mar 10 11:13:05 2014","","Tom Hulce","Actor, <a href=""http://www.imdb.com/title/tt0086879/"">Amadeus</a>","1953-12-06"
+
+"571","nm0001215","Mon Mar 10 11:13:15 2014","Mon Mar 10 11:13:15 2014","","Albert Finney","Actor, <a href=""http://www.imdb.com/title/tt0319061/"">Big Fish</a>","1936-05-09"
+
+"572","nm0002018","Mon Mar 10 11:13:23 2014","Mon Mar 10 11:13:23 2014","","Tom Conti","Actor, <a href=""http://www.imdb.com/title/tt1345836/"">The Dark Knight Rises</a>","1941-11-22"
+
+"573","nm0183822","Mon Mar 10 11:13:32 2014","Mon Mar 10 11:13:32 2014","","Tom Courtenay","Actor, <a href=""http://www.imdb.com/title/tt0059113/"">Doctor Zhivago</a>","1937-02-25"
+
+"574","nm0001545","Mon Mar 10 11:13:42 2014","Mon Mar 10 11:13:42 2014","","Dudley Moore","Actor, <a href=""http://www.imdb.com/title/tt0082031/"">Arthur</a>","1935-04-19"
+
+"575","nm0000457","Mon Mar 10 11:13:48 2014","Mon Mar 10 11:13:48 2014","","John Hurt","Actor, <a href=""http://www.imdb.com/title/tt0434409/"">V for Vendetta</a>","1940-01-22"
+
+"601","nm1209966","Mon Mar 10 11:26:24 2014","Mon Mar 10 11:26:24 2014","","Oscar Isaac","Actor, <a href=""http://www.imdb.com/title/tt2042568/"">Inside Llewyn Davis</a>","1979-03-09"
+
+"602","nm1417647","Mon Mar 10 11:26:30 2014","Mon Mar 10 11:26:30 2014","","Jon Heder","Actor, <a href=""http://www.imdb.com/title/tt0374900/"">Napoleon Dynamite</a>","1977-10-26"
+
+"603","nm1886602","Mon Mar 10 11:26:37 2014","Mon Mar 10 11:26:37 2014","","Miles Teller","Actor, <a href=""http://www.imdb.com/title/tt2582802/"">Whiplash</a>","1987-02-20"
+
+"604","nm0117709","Mon Mar 10 11:26:47 2014","Mon Mar 10 11:26:47 2014","","Daniel Brühl","Actor, <a href=""http://www.imdb.com/title/tt0361748/"">Inglourious Basterds</a>","1978-06-16"
+
+"605","nm0001254","Mon Mar 10 11:26:55 2014","Mon Mar 10 11:26:55 2014","","James Gandolfini","Actor, <a href=""http://www.imdb.com/title/tt0243133/"">The Man Who Wasn't There</a>","1961-09-18"
+
+"606","nm0430107","Mon Mar 10 11:27:08 2014","Mon Mar 10 11:27:08 2014","","Michael B. Jordan","Actor, <a href=""http://www.imdb.com/title/tt3076658/"">Creed</a>","1987-02-09"
+
+"607","nm0000578","Mon Mar 10 11:27:16 2014","Mon Mar 10 11:27:16 2014","","Anthony Perkins","Actor, <a href=""http://www.imdb.com/title/tt0054215/"">Psycho</a>","1932-04-04"
+
+"608","nm0000667","Mon Mar 10 11:27:24 2014","Mon Mar 10 11:27:24 2014","","David Thewlis","Actor, <a href=""http://www.imdb.com/title/tt0304141/"">Harry Potter and the Prisoner of Azkaban</a>","1963-03-20"
+
+"609","nm0001428","Mon Mar 10 11:27:31 2014","Mon Mar 10 11:27:31 2014","","Klaus Kinski","Actor, <a href=""http://www.imdb.com/title/tt0068182/"">Aguirre, der Zorn Gottes</a>"
+
+"610","nm0000532","Mon Mar 10 11:27:38 2014","Mon Mar 10 11:27:38 2014","","Malcolm McDowell","Actor, <a href=""http://www.imdb.com/title/tt0066921/"">A Clockwork Orange</a>","1943-06-13"
+
+"611","nm0935653","Mon Mar 10 11:27:46 2014","Mon Mar 10 11:27:46 2014","","Ray Winstone","Actor, <a href=""http://www.imdb.com/title/tt0407887/"">The Departed</a>","1957-02-19"
+
+"612","nm0000901","Mon Mar 10 11:27:55 2014","Mon Mar 10 11:27:55 2014","","Jean-Paul Belmondo","Actor, <a href=""http://www.imdb.com/title/tt0053472/"">À bout de souffle</a>","1933-04-09"
+
+"613","nm0785227","Mon Mar 10 11:28:01 2014","Mon Mar 10 11:28:01 2014","","Andy Serkis","Actor, <a href=""http://www.imdb.com/title/tt1318514/"">Rise of the Planet of the Apes</a>","1964-04-20"
+
+"614","nm0000111","Mon Mar 10 11:28:08 2014","Mon Mar 10 11:28:08 2014","","Matthew Broderick","Actor, <a href=""http://www.imdb.com/title/tt0091042/"">Ferris Bueller's Day Off</a>","1962-03-21"
+
+"615","nm0000454","Mon Mar 10 11:28:26 2014","Mon Mar 10 11:28:26 2014","","Dennis Hopper","Actor, <a href=""http://www.imdb.com/title/tt0111257/"">Speed</a>","1936-05-17"
+
+"616","nm0740264","Mon Mar 10 11:28:34 2014","Mon Mar 10 11:28:34 2014","","Michael Rooker","Actor, <a href=""http://www.imdb.com/title/tt2015381/"">Guardians of the Galaxy</a>","1955-04-06"
+
+"617","nm0001252","Mon Mar 10 11:28:41 2014","Mon Mar 10 11:28:41 2014","","Vincent Gallo","Actor, <a href=""http://www.imdb.com/title/tt0118789/"">Buffalo '66</a>","1961-04-11"
+
+"618","nm0001536","Mon Mar 10 11:28:49 2014","Mon Mar 10 11:28:49 2014","","Toshirô Mifune","Actor, <a href=""http://www.imdb.com/title/tt0047478/"">Shichinin no samurai</a>","1920-04-01"
+
+"619","nm0001993","Mon Mar 10 11:28:56 2014","Mon Mar 10 11:28:56 2014","","Vincent Cassel","Actor, <a href=""http://www.imdb.com/title/tt0947798/"">Black Swan</a>","1966-11-23"
+
+"620","nm0799777","Sun Mar  8 12:11:57 2015","Sun Mar  8 12:11:57 2015","","J.K. Simmons","Actor, <a href=""http://www.imdb.com/title/tt2582802/"">Whiplash</a>","1955-01-09"
+
+"621","nm0000472","Mon Mar 10 11:29:10 2014","Mon Mar 10 11:29:10 2014","","Boris Karloff","Actor, <a href=""http://www.imdb.com/title/tt0060345/"">How the Grinch Stole Christmas!</a>","1887-11-23"
+
+"622","nm0000048","Mon Mar 10 11:29:26 2014","Mon Mar 10 11:29:26 2014","","Peter Lorre","Actor, <a href=""http://www.imdb.com/title/tt0034583/"">Casablanca</a>","1904-06-26"
+
+"623","nm0000104","Mon Mar 10 11:29:36 2014","Mon Mar 10 11:29:36 2014","","Antonio Banderas","Actor, <a href=""http://www.imdb.com/title/tt0112851/"">Desperado</a>","1960-08-10"
+
+"624","nm0175916","Mon Mar 10 11:29:42 2014","Mon Mar 10 11:29:42 2014","","Paddy Considine","Actor, <a href=""http://www.imdb.com/title/tt0440963/"">The Bourne Ultimatum</a>","1974-09-05"
+
+"625","nm0000202","Mon Mar 10 11:29:48 2014","Mon Mar 10 11:29:48 2014","","Ryan Phillippe","Actor, <a href=""http://www.imdb.com/title/tt0418689/"">Flags of Our Fathers</a>","1974-09-10"
+
+"651","nm0383603","Mon Mar 10 11:38:15 2014","Mon Mar 10 11:38:15 2014","","Freddie Highmore","Actor, <a href=""http://www.imdb.com/title/tt0367594/"">Charlie and the Chocolate Factory</a>","1992-02-14"
+
+"652","nm0000150","Mon Mar 10 11:38:25 2014","Mon Mar 10 11:38:25 2014","","Michael J. Fox","Actor, <a href=""http://www.imdb.com/title/tt0088763/"">Back to the Future</a>","1961-06-09"
+
+"653","nm0000552","Mon Mar 10 11:38:33 2014","Mon Mar 10 11:38:33 2014","","Eddie Murphy","Actor, <a href=""http://www.imdb.com/title/tt0086960/"">Beverly Hills Cop</a>","1961-04-03"
+
+"654","nm0136797","Mon Mar 10 11:38:58 2014","Mon Mar 10 11:38:58 2014","","Steve Carell","Actor, <a href=""http://www.imdb.com/title/tt1248736/"">Stress Relief</a>","1962-08-16"
+
+"655","nm0532235","Mon Mar 10 11:39:15 2014","Mon Mar 10 11:39:15 2014","","Seth MacFarlane","Writer, <a href=""http://www.imdb.com/title/tt1637725/"">Ted</a>","1973-10-26"
+
+"656","nm0000045","Mon Mar 10 11:39:22 2014","Mon Mar 10 11:39:22 2014","","Bruce Lee","Actor, <a href=""http://www.imdb.com/title/tt0070034/"">Enter the Dragon</a>","1940-11-27"
+
+"657","nm0001472","Mon Mar 10 11:39:27 2014","Mon Mar 10 11:39:27 2014","","Jet Li","Actor, <a href=""http://www.imdb.com/title/tt0299977/"">Ying xiong</a>","1963-04-26"
+
+"658","nm0001569","Mon Mar 10 11:39:35 2014","Mon Mar 10 11:39:35 2014","","Chuck Norris","Actor, <a href=""http://www.imdb.com/title/tt1764651/"">The Expendables 2</a>","1940-03-10"
+
+"659","nm0000241","Mon Mar 10 11:42:12 2014","Mon Mar 10 11:42:12 2014","","Jean-Claude Van Damme","Actor, <a href=""http://www.imdb.com/title/tt0101764/"">Double Impact</a>","1960-10-18"
+
+"660","nm0005377","Mon Mar 10 11:42:18 2014","Mon Mar 10 11:42:18 2014","","Sam Rockwell","Actor, <a href=""http://www.imdb.com/title/tt1182345/"">Moon</a>","1968-11-05"
+
+"661","nm0793766","Mon Mar 10 11:42:27 2014","Mon Mar 10 11:42:27 2014","","Takashi Shimura","Actor, <a href=""http://www.imdb.com/title/tt0047478/"">Shichinin no samurai</a>","1905-03-12"
+
+"662","nm0001290","Mon Mar 10 11:42:34 2014","Mon Mar 10 11:42:34 2014","","Richard E. Grant","Actor, <a href=""http://www.imdb.com/title/tt0103874/"">Dracula</a>","1957-05-05"
+
+"663","nm0000558","Mon Mar 10 11:42:44 2014","Mon Mar 10 11:42:44 2014","","Leslie Nielsen","Actor, <a href=""http://www.imdb.com/title/tt0095705/"">The Naked Gun: From the Files of Police Squad!</a>","1926-02-11"
+
+"664","nm0670408","Mon Mar 10 11:42:52 2014","Mon Mar 10 11:42:52 2014","","Simon Pegg","Actor, <a href=""http://www.imdb.com/title/tt0365748/"">Shaun of the Dead</a>","1970-02-14"
+
+"665","nm0000518","Mon Mar 10 11:43:00 2014","Mon Mar 10 11:43:00 2014","","John Malkovich","Actor, <a href=""http://www.imdb.com/title/tt0094947/"">Dangerous Liaisons</a>","1953-12-09"
+
+"666","nm0788335","Mon Mar 10 11:43:07 2014","Mon Mar 10 11:43:07 2014","","Michael Shannon","Actor, <a href=""http://www.imdb.com/title/tt0770828/"">Man of Steel</a>","1974-08-07"
+
+"667","nm0000640","Mon Mar 10 11:43:13 2014","Mon Mar 10 11:43:13 2014","","Martin Sheen","Actor, <a href=""http://www.imdb.com/title/tt0407887/"">The Departed</a>","1940-08-03"
+
+"668","nm0001302","Mon Mar 10 11:43:21 2014","Mon Mar 10 11:43:21 2014","","Christopher Guest","Actor, <a href=""http://www.imdb.com/title/tt0088258/"">This Is Spinal Tap</a>","1948-02-05"
+
+"669","nm0000614","Mon Mar 10 11:43:29 2014","Mon Mar 10 11:43:29 2014","","Alan Rickman","Actor, <a href=""http://www.imdb.com/title/tt1201607/"">Harry Potter and the Deathly Hallows: Part 2</a>","1946-02-21"
+
+"670","nm0355097","Mon Mar 10 11:43:45 2014","Mon Mar 10 11:43:45 2014","","Jackie Earle Haley","Actor, <a href=""http://www.imdb.com/title/tt0409459/"">Watchmen</a>","1961-07-14"
+
+"671","nm0001050","Mon Mar 10 11:44:00 2014","Mon Mar 10 11:44:00 2014","","Montgomery Clift","Actor, <a href=""http://www.imdb.com/title/tt0045793/"">From Here to Eternity</a>","1920-10-17"
+
+"672","nm0000652","Mon Mar 10 11:44:06 2014","Mon Mar 10 11:44:06 2014","","James Spader","Actor, <a href=""http://www.imdb.com/title/tt0111282/"">Stargate</a>","1960-02-07"
+
+"673","nm0051509","Mon Mar 10 11:44:13 2014","Mon Mar 10 11:44:13 2014","","Eric Bana","Actor, <a href=""http://www.imdb.com/title/tt0796366/"">Star Trek</a>","1968-08-09"
+
+"674","nm0244151","Mon Mar 10 11:44:22 2014","Mon Mar 10 11:44:22 2014","","Romain Duris","Actor, <a href=""http://www.imdb.com/title/tt0283900/"">L'auberge espagnole</a>","1974-05-28"
+
+"675","nm0001727","Mon Mar 10 11:44:31 2014","Mon Mar 10 11:44:31 2014","","Robert Shaw","Actor, <a href=""http://www.imdb.com/title/tt0073195/"">Jaws</a>","1927-08-09"
+
+"701","nm0001647","Mon Mar 10 11:50:54 2014","Mon Mar 10 11:50:54 2014","","Claude Rains","Actor, <a href=""http://www.imdb.com/title/tt0034583/"">Casablanca</a>","1889-11-10"
+
+"702","nm0000114","Mon Mar 10 11:51:00 2014","Mon Mar 10 11:51:00 2014","","Steve Buscemi","Actor, <a href=""http://www.imdb.com/title/tt0116282/"">Fargo</a>","1957-12-13"
+
+"703","nm0753479","Mon Mar 10 11:51:08 2014","Mon Mar 10 11:51:08 2014","","Chishû Ryû","Actor, <a href=""http://www.imdb.com/title/tt0046438/"">Tôkyô monogatari</a>","1904-05-13"
+
+"704","nm0004462","Mon Mar 10 11:53:25 2014","Mon Mar 10 11:53:25 2014","","Jean-Louis Trintignant","Actor, <a href=""http://www.imdb.com/title/tt1602620/"">Amour</a>","1930-12-11"
+
+"705","nm0001072","Mon Mar 10 11:53:39 2014","Mon Mar 10 11:53:39 2014","","Joseph Cotten","Actor, <a href=""http://www.imdb.com/title/tt0033467/"">Citizen Kane</a>","1905-05-15"
+
+"706","nm0001608","Mon Mar 10 11:53:49 2014","Mon Mar 10 11:53:49 2014","","Barry Pepper","Actor, <a href=""http://www.imdb.com/title/tt0120815/"">Saving Private Ryan</a>","1970-04-04"
+
+"707","nm0002233","Mon Mar 10 11:54:01 2014","Mon Mar 10 11:54:01 2014","","Erich von Stroheim","Actor, <a href=""http://www.imdb.com/title/tt0043014/"">Sunset Blvd.</a>","1885-09-22"
+
+"708","nm0557339","Mon Mar 10 11:54:26 2014","Mon Mar 10 11:54:26 2014","","Raymond Massey","Actor, <a href=""http://www.imdb.com/title/tt0036613/"">Arsenic and Old Lace</a>","1896-08-30"
+
+"709","nm0000502","Mon Mar 10 11:54:47 2014","Mon Mar 10 11:54:47 2014","","Christopher Lloyd","Actor, <a href=""http://www.imdb.com/title/tt0088763/"">Back to the Future</a>","1938-10-22"
+
+"710","nm0004936","Mon Mar 10 11:54:54 2014","Mon Mar 10 11:54:54 2014","","Ben Foster","Actor, <a href=""http://www.imdb.com/title/tt0381849/"">3:10 to Yuma</a>","1980-10-29"
+
+"711","nm0566948","Mon Mar 10 11:55:01 2014","Mon Mar 10 11:55:01 2014","","Joel McCrea","Actor, <a href=""http://www.imdb.com/title/tt0032484/"">Foreign Correspondent</a>","1905-11-05"
+
+"712","nm0158856","Mon Mar 10 11:55:07 2014","Mon Mar 10 11:55:07 2014","","Min-sik Choi","Actor, <a href=""http://www.imdb.com/title/tt0364569/"">Oldeuboi</a>","1962-01-22"
+
+"713","nm0000191","Mon Mar 10 11:55:15 2014","Mon Mar 10 11:55:15 2014","","Ewan McGregor","Actor, <a href=""http://www.imdb.com/title/tt0121766/"">Star Wars: Episode III - Revenge of the Sith</a>","1971-03-31"
+
+"714","nm0305558","Mon Mar 10 11:55:27 2014","Mon Mar 10 11:55:27 2014","","Gael García Bernal","Actor, <a href=""http://www.imdb.com/title/tt0245574/"">Y tu mamá también</a>","1978-11-30"
+
+"715","nm0004486","Mon Mar 10 11:56:47 2014","Mon Mar 10 11:56:47 2014","","Bruno Ganz","Actor, <a href=""http://www.imdb.com/title/tt0363163/"">Der Untergang</a>","1941-03-22"
+
+"716","nm0000276","Mon Mar 10 11:56:56 2014","Mon Mar 10 11:56:56 2014","","Sean Astin","Actor, <a href=""http://www.imdb.com/title/tt0167261/"">The Lord of the Rings: The Two Towers</a>","1971-02-25"
+
+"717","nm0002113","Mon Mar 10 11:57:04 2014","Mon Mar 10 11:57:04 2014","","Sydney Greenstreet","Actor, <a href=""http://www.imdb.com/title/tt0034583/"">Casablanca</a>","1879-12-27"
+
+"718","nm0618057","Mon Mar 10 11:57:12 2014","Mon Mar 10 11:57:12 2014","","Ulrich Mühe","Actor, <a href=""http://www.imdb.com/title/tt0405094/"">Das Leben der Anderen</a>","1953-06-20"
+
+"719","nm0001702","Mon Mar 10 11:57:21 2014","Mon Mar 10 11:57:21 2014","","Roy Scheider","Actor, <a href=""http://www.imdb.com/title/tt0073195/"">Jaws</a>","1932-11-10"
+
+"720","nm0000729","Mon Mar 10 11:57:26 2014","Mon Mar 10 11:57:26 2014","","Casey Affleck","Actor, <a href=""http://www.imdb.com/title/tt0452623/"">Gone Baby Gone</a>","1975-08-12"
+
+"721","nm0000997","Mon Mar 10 11:57:33 2014","Mon Mar 10 11:57:33 2014","","Gary Busey","Actor, <a href=""http://www.imdb.com/title/tt0093409/"">Lethal Weapon</a>","1944-06-29"
+
+"722","nm5831542","Mon Mar 10 12:01:31 2014","Mon Mar 10 12:01:31 2014","","Barkhad Abdi","Actor, <a href=""http://www.imdb.com/title/tt1535109/"">Captain Phillips</a>","1985-04-10"
+
+"723","nm0001099","Mon Mar 10 12:01:39 2014","Mon Mar 10 12:01:39 2014","","Jeff Daniels","Actor, <a href=""http://www.imdb.com/title/tt0109686/"">Dumb & Dumber</a>","1955-02-19"
+
+"724","nm0001804","Mon Mar 10 12:02:03 2014","Mon Mar 10 12:02:03 2014","","Stanley Tucci","Actor, <a href=""http://www.imdb.com/title/tt1392170/"">The Hunger Games</a>","1960-11-11"
+
+"725","nm0000662","Mon Mar 10 12:02:11 2014","Mon Mar 10 12:02:11 2014","","Kiefer Sutherland","Actor, <a href=""http://www.imdb.com/title/tt0502165/"">12:00 a.m.-1:00 a.m.</a>","1966-12-21"
+
+"751","nm0000982","Mon Mar 10 13:04:11 2014","Mon Mar 10 13:04:11 2014","","Josh Brolin","Actor, <a href=""http://www.imdb.com/title/tt1175491/"">W.</a>","1968-02-12"
+
+"752","nm0001358","Mon Mar 10 13:04:18 2014","Mon Mar 10 13:04:18 2014","","Hal Holbrook","Actor, <a href=""http://www.imdb.com/title/tt0758758/"">Into the Wild</a>","1925-02-17"
+
+"753","nm0005023","Mon Mar 10 13:04:25 2014","Mon Mar 10 13:04:25 2014","","Djimon Hounsou","Actor, <a href=""http://www.imdb.com/title/tt0172495/"">Gladiator</a>","1964-04-24"
+
+"754","nm0000369","Mon Mar 10 13:04:32 2014","Mon Mar 10 13:04:32 2014","","Matt Dillon","Actor, <a href=""http://www.imdb.com/title/tt0129387/"">There's Something About Mary</a>","1964-02-18"
+
+"755","nm0000257","Mon Mar 10 13:05:05 2014","Mon Mar 10 13:05:05 2014","","Alan Alda","Actor, <a href=""http://www.imdb.com/title/tt0338751/"">The Aviator</a>","1936-01-28"
+
+"756","nm0002006","Mon Mar 10 13:05:15 2014","Mon Mar 10 13:05:15 2014","","Thomas Haden Church","Actor, <a href=""http://www.imdb.com/title/tt0375063/"">Sideways</a>","1960-06-17"
+
+"757","nm0654110","Mon Mar 10 13:05:21 2014","Mon Mar 10 13:05:21 2014","","Clive Owen","Actor, <a href=""http://www.imdb.com/title/tt0206634/"">Children of Men</a>","1964-10-03"
+
+"758","nm0913822","Mon Mar 10 13:05:30 2014","Mon Mar 10 13:05:30 2014","","Ken Watanabe","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1959-10-21"
+
+"759","nm4139037","Mon Mar 10 13:05:36 2014","Mon Mar 10 13:05:36 2014","","Suraj Sharma","Actor, <a href=""http://www.imdb.com/title/tt0454876/"">Life of Pi</a>","1993-03-21"
+
+"760","nm0000604","Mon Mar 10 13:05:42 2014","Mon Mar 10 13:05:42 2014","","John C. Reilly","Actor, <a href=""http://www.imdb.com/title/tt0415306/"">Talladega Nights: The Ballad of Ricky Bobby</a>","1965-05-24"
+
+"761","nm0003817","Mon Mar 10 13:05:51 2014","Mon Mar 10 13:05:51 2014","","Michael Clarke Duncan","Actor, <a href=""http://www.imdb.com/title/tt0120689/"">The Green Mile</a>","1957-12-10"
+
+"762","nm0005286","Mon Mar 10 13:06:01 2014","Mon Mar 10 13:06:01 2014","","Haley Joel Osment","Actor, <a href=""http://www.imdb.com/title/tt0167404/"">The Sixth Sense</a>","1988-04-10"
+
+"763","nm0001427","Mon Mar 10 13:06:08 2014","Mon Mar 10 13:06:08 2014","","Greg Kinnear","Actor, <a href=""http://www.imdb.com/title/tt0449059/"">Little Miss Sunshine</a>","1963-06-17"
+
+"764","nm0000608","Mon Mar 10 13:06:17 2014","Mon Mar 10 13:06:17 2014","","Burt Reynolds","Actor, <a href=""http://www.imdb.com/title/tt0118749/"">Boogie Nights</a>","1936-02-11"
+
+"765","nm0001233","Mon Mar 10 13:06:26 2014","Mon Mar 10 13:06:26 2014","","Robert Forster","Actor, <a href=""http://www.imdb.com/title/tt0119396/"">Jackie Brown</a>","1941-07-13"
+
+"766","nm0005403","Mon Mar 10 13:06:34 2014","Mon Mar 10 13:06:34 2014","","Jason Schwartzman","Actor, <a href=""http://www.imdb.com/title/tt0128445/"">Rushmore</a>","1980-06-26"
+
+"767","nm0000513","Mon Mar 10 13:06:42 2014","Mon Mar 10 13:06:42 2014","","William H. Macy","Actor, <a href=""http://www.imdb.com/title/tt0116282/"">Fargo</a>","1950-03-13"
+
+"768","nm0000090","Mon Mar 10 13:06:53 2014","Mon Mar 10 13:06:53 2014","","Armin Mueller-Stahl","Actor, <a href=""http://www.imdb.com/title/tt0119174/"">The Game</a>","1930-12-17"
+
+"769","nm0000619","Mon Mar 10 13:07:02 2014","Mon Mar 10 13:07:02 2014","","Tim Roth","Actor, <a href=""http://www.imdb.com/title/tt0110912/"">Pulp Fiction</a>","1961-05-14"
+
+"770","nm0000342","Mon Mar 10 13:07:08 2014","Mon Mar 10 13:07:08 2014","","James Cromwell","Actor, <a href=""http://www.imdb.com/title/tt0120689/"">The Green Mile</a>","1940-01-27"
+
+"771","nm0001590","Mon Mar 10 13:07:18 2014","Mon Mar 10 13:07:18 2014","","Chazz Palminteri","Actor, <a href=""http://www.imdb.com/title/tt0114814/"">The Usual Suspects</a>","1952-05-15"
+
+"772","nm0000641","Mon Mar 10 13:07:31 2014","Mon Mar 10 13:07:31 2014","","Gary Sinise","Actor, <a href=""http://www.imdb.com/title/tt0112384/"">Apollo 13</a>","1955-03-17"
+
+"773","nm0006890","Mon Mar 10 13:07:38 2014","Mon Mar 10 13:07:38 2014","","Paul Scofield","Actor, <a href=""http://www.imdb.com/title/tt0060665/"">A Man for All Seasons</a>","1922-01-21"
+
+"774","nm0000592","Mon Mar 10 13:07:48 2014","Mon Mar 10 13:07:48 2014","","Pete Postlethwaite","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1946-02-07"
+
+"775","nm0001601","Mon Mar 10 13:07:55 2014","Mon Mar 10 13:07:55 2014","","David Paymer","Actor, <a href=""http://www.imdb.com/title/tt1127180/"">Drag Me to Hell</a>","1954-08-30"
+
+"801","nm0000152","Mon Mar 10 13:24:03 2014","Mon Mar 10 13:24:03 2014","","Richard Gere","Actor, <a href=""http://www.imdb.com/title/tt0100405/"">Pretty Woman</a>","1949-08-31"
+
+"802","nm0296545","Mon Mar 10 13:24:26 2014","Mon Mar 10 13:24:26 2014","","Nick Frost","Actor, <a href=""http://www.imdb.com/title/tt0365748/"">Shaun of the Dead</a>","1972-03-28"
+
+"803","nm0000501","Mon Mar 10 13:24:36 2014","Mon Mar 10 13:24:36 2014","","Ray Liotta","Actor, <a href=""http://www.imdb.com/title/tt0099685/"">Goodfellas</a>","1954-12-18"
+
+"804","nm0001674","Mon Mar 10 13:24:42 2014","Mon Mar 10 13:24:42 2014","","Chris Rock","Self, <a href=""http://www.imdb.com/title/tt0280486/"">Bad Company</a>","1965-02-07"
+
+"805","nm0358316","Mon Mar 10 13:24:50 2014","Mon Mar 10 13:24:50 2014","","Jon Hamm","Actor, <a href=""http://www.imdb.com/title/tt1059578/"">Smoke Gets in Your Eyes</a>","1971-03-10"
+
+"806","nm0000439","Mon Mar 10 13:24:59 2014","Mon Mar 10 13:24:59 2014","","Neil Patrick Harris","Actor, <a href=""http://www.imdb.com/title/tt2267998/"">Gone Girl</a>","1973-06-15"
+
+"807","nm0000221","Mon Mar 10 13:25:05 2014","Mon Mar 10 13:25:05 2014","","Charlie Sheen","Actor, <a href=""http://www.imdb.com/title/tt0094291/"">Wall Street</a>","1965-09-03"
+
+"808","nm0001109","Mon Mar 10 13:25:12 2014","Mon Mar 10 13:25:12 2014","","Jaye Davidson","Actor, <a href=""http://www.imdb.com/title/tt0111282/"">Stargate</a>","1968-03-21"
+
+"809","nm0000412","Mon Mar 10 13:25:22 2014","Mon Mar 10 13:25:22 2014","","Andy Garcia","Actor, <a href=""http://www.imdb.com/title/tt0099674/"">The Godfather: Part III</a>","1956-04-12"
+
+"810","nm0503627","Mon Mar 10 13:25:30 2014","Mon Mar 10 13:25:30 2014","","Michael Lerner","Actor, <a href=""http://www.imdb.com/title/tt2378390/"">2 Dead 2 Kill</a>","1941-06-22"
+
+"811","nm0001295","Mon Mar 10 13:25:39 2014","Mon Mar 10 13:25:39 2014","","Graham Greene","Actor, <a href=""http://www.imdb.com/title/tt0120689/"">The Green Mile</a>","1952-06-22"
+
+"812","nm0001117","Mon Mar 10 13:25:48 2014","Mon Mar 10 13:25:48 2014","","Bruce Davison","Actor, <a href=""http://www.imdb.com/title/tt0120903/"">X-Men</a>","1946-06-28"
+
+"813","nm0000101","Mon Mar 10 13:25:56 2014","Mon Mar 10 13:25:56 2014","","Dan Aykroyd","Writer, <a href=""http://www.imdb.com/title/tt0087332/"">Ghost Busters</a>","1952-07-01"
+
+"814","nm0000732","Mon Mar 10 13:26:04 2014","Mon Mar 10 13:26:04 2014","","Danny Aiello","Actor, <a href=""http://www.imdb.com/title/tt0110413/"">Léon</a>","1933-06-20"
+
+"815","nm0000203","Mon Mar 10 13:26:19 2014","Mon Mar 10 13:26:19 2014","","River Phoenix","Actor, <a href=""http://www.imdb.com/title/tt0092005/"">Stand by Me</a>","1970-08-23"
+
+"816","nm0001777","Mon Mar 10 13:26:26 2014","Mon Mar 10 13:26:26 2014","","Dean Stockwell","Actor, <a href=""http://www.imdb.com/title/tt0090756/"">Blue Velvet</a>","1936-03-05"
+
+"817","nm0000345","Mon Mar 10 13:26:31 2014","Mon Mar 10 13:26:31 2014","","Billy Crystal","Actor, <a href=""http://www.imdb.com/title/tt0198781/"">Monsters, Inc.</a>"
+
+"818","nm0000422","Mon Mar 10 13:26:37 2014","Mon Mar 10 13:26:37 2014","","John Goodman","Actor, <a href=""http://www.imdb.com/title/tt0198781/"">Monsters, Inc.</a>"
+
+"819","nm0089217","Mon Mar 10 13:27:03 2014","Mon Mar 10 13:27:03 2014","","Orlando Bloom","Actor, <a href=""http://www.imdb.com/title/tt0325980/"">Pirates of the Caribbean: The Curse of the Black Pearl</a>","1977-01-13"
+
+"820","nm0001745","Mon Mar 10 13:27:13 2014","Mon Mar 10 13:27:13 2014","","Stellan Skarsgård","Actor, <a href=""http://www.imdb.com/title/tt0119217/"">Good Will Hunting</a>","1951-06-13"
+
+"821","nm0342488","Mon Mar 10 13:27:21 2014","Mon Mar 10 13:27:21 2014","","Rupert Grint","Actor, <a href=""http://www.imdb.com/title/tt0295297/"">Harry Potter and the Chamber of Secrets</a>","1988-08-24"
+
+"822","nm0000196","Mon Mar 10 13:27:27 2014","Mon Mar 10 13:27:27 2014","","Mike Myers","Actor, <a href=""http://www.imdb.com/title/tt0145660/"">Austin Powers: The Spy Who Shagged Me</a>","1963-05-25"
+
+"823","nm0879085","Mon Mar 10 13:27:39 2014","Mon Mar 10 13:27:39 2014","","Tyrese Gibson","Actor, <a href=""http://www.imdb.com/title/tt0418279/"">Transformers</a>","1978-12-30"
+
+"824","nm0000704","Mon Mar 10 13:27:51 2014","Mon Mar 10 13:27:51 2014","","Elijah Wood","Actor, <a href=""http://www.imdb.com/title/tt0338013/"">Eternal Sunshine of the Spotless Mind</a>","1981-01-28"
+
+"825","nm0000362","Mon Mar 10 13:28:04 2014","Mon Mar 10 13:28:04 2014","","Danny DeVito","Actor, <a href=""http://www.imdb.com/title/tt0073486/"">One Flew Over the Cuckoo's Nest</a>","1944-11-17"
+
+"851","nm0005188","Mon Mar 10 13:32:31 2014","Mon Mar 10 13:32:31 2014","","James Marsden","Actor, <a href=""http://www.imdb.com/title/tt0120903/"">X-Men</a>","1973-09-18"
+
+"852","nm0000741","Mon Mar 10 13:32:39 2014","Mon Mar 10 13:32:39 2014","","Tim Allen","Actor, <a href=""http://www.imdb.com/title/tt0114709/"">Toy Story</a>","1953-06-13"
+
+"853","nm0000610","Mon Mar 10 13:32:49 2014","Mon Mar 10 13:32:49 2014","","Giovanni Ribisi","Actor, <a href=""http://www.imdb.com/title/tt0499549/"">Avatar</a>","1974-12-17"
+
+"854","nm0000233","Mon Mar 10 13:35:31 2014","Mon Mar 10 13:35:31 2014","","Quentin Tarantino","Writer, <a href=""http://www.imdb.com/title/tt0110912/"">Pulp Fiction</a>","1963-03-27"
+
+"855","nm0000681","Mon Mar 10 13:35:41 2014","Mon Mar 10 13:35:41 2014","","Vince Vaughn","Actor, <a href=""http://www.imdb.com/title/tt2234155/"">The Internship</a>","1970-03-28"
+
+"856","nm0004051","Mon Mar 10 13:35:47 2014","Mon Mar 10 13:35:47 2014","","Brian Cox","Actor, <a href=""http://www.imdb.com/title/tt0332452/"">Troy</a>","1946-06-01"
+
+"857","nm0000598","Mon Mar 10 13:35:54 2014","Mon Mar 10 13:35:54 2014","","Dennis Quaid","Actor, <a href=""http://www.imdb.com/title/tt0319262/"">The Day After Tomorrow</a>","1954-04-09"
+
+"858","nm0000491","Mon Mar 10 13:36:02 2014","Mon Mar 10 13:36:02 2014","","John Leguizamo","Actor, <a href=""http://www.imdb.com/title/tt0268380/"">Ice Age</a>","1964-07-22"
+
+"859","nm0000474","Mon Mar 10 13:36:10 2014","Mon Mar 10 13:36:10 2014","","Michael Keaton","Actor, <a href=""http://www.imdb.com/title/tt2562232/"">Birdman or (The Unexpected Virtue of Ignorance)</a>","1951-09-05"
+
+"860","nm0121605","Mon Mar 10 13:36:18 2014","Mon Mar 10 13:36:18 2014","","Billy Burke","Actor, <a href=""http://www.imdb.com/title/tt1099212/"">Twilight</a>","1966-11-25"
+
+"861","nm0322407","Mon Mar 10 13:36:25 2014","Mon Mar 10 13:36:25 2014","","Brendan Gleeson","Actor, <a href=""http://www.imdb.com/title/tt1631867/"">Edge of Tomorrow</a>","1955-03-29"
+
+"862","nm0163988","Mon Mar 10 13:36:32 2014","Mon Mar 10 13:36:32 2014","","Clark Gregg","Actor, <a href=""http://www.imdb.com/title/tt0848228/"">The Avengers</a>","1962-04-02"
+
+"863","nm0000596","Mon Mar 10 13:36:38 2014","Mon Mar 10 13:36:38 2014","","Jonathan Pryce","Actor, <a href=""http://www.imdb.com/title/tt0325980/"">Pirates of the Caribbean: The Curse of the Black Pearl</a>","1947-06-01"
+
+"864","nm0001497","Mon Mar 10 13:36:46 2014","Mon Mar 10 13:36:46 2014","","Tobey Maguire","Actor, <a href=""http://www.imdb.com/title/tt0145487/"">Spider-Man</a>","1975-06-27"
+
+"865","nm0790688","Mon Mar 10 13:36:58 2014","Mon Mar 10 13:36:58 2014","","Michael Sheen","Actor, <a href=""http://www.imdb.com/title/tt0320661/"">Kingdom of Heaven</a>","1969-02-05"
+
+"866","nm0519043","Mon Mar 10 13:37:05 2014","Mon Mar 10 13:37:05 2014","","Justin Long","Actor, <a href=""http://www.imdb.com/title/tt0337978/"">Live Free or Die Hard</a>","1978-06-02"
+
+"867","nm1553725","Mon Mar 10 13:37:12 2014","Mon Mar 10 13:37:12 2014","","Kellan Lutz","Actor, <a href=""http://www.imdb.com/title/tt1099212/"">Twilight</a>","1985-03-15"
+
+"868","nm0085312","Mon Mar 10 13:37:20 2014","Mon Mar 10 13:37:20 2014","","Jack Black","Actor, <a href=""http://www.imdb.com/title/tt0441773/"">Kung Fu Panda</a>","1969-08-28"
+
+"869","nm0000112","Mon Mar 10 13:37:50 2014","Mon Mar 10 13:37:50 2014","","Pierce Brosnan","Actor, <a href=""http://www.imdb.com/title/tt0113189/"">GoldenEye</a>","1953-05-16"
+
+"870","nm0000293","Mon Mar 10 13:38:59 2014","Mon Mar 10 13:38:59 2014","","Sean Bean","Actor, <a href=""http://www.imdb.com/title/tt0120737/"">The Lord of the Rings: The Fellowship of the Ring</a>","1959-04-17"
+
+"871","nm0147825","Mon Mar 10 13:39:09 2014","Mon Mar 10 13:39:09 2014","","Cedric the Entertainer","Actor, <a href=""http://www.imdb.com/title/tt0268380/"">Ice Age</a>","1964-04-24"
+
+"872","nm1210124","Mon Mar 10 13:39:28 2014","Mon Mar 10 13:39:28 2014","","Taylor Lautner","Actor, <a href=""http://www.imdb.com/title/tt1324999/"">The Twilight Saga: Breaking Dawn - Part 1</a>","1992-02-11"
+
+"873","nm0241049","Mon Mar 10 13:39:35 2014","Mon Mar 10 13:39:35 2014","","Josh Duhamel","Actor, <a href=""http://www.imdb.com/title/tt0418279/"">Transformers</a>","1972-11-14"
+
+"874","nm0269463","Mon Mar 10 13:39:43 2014","Mon Mar 10 13:39:43 2014","","Jon Favreau","Producer, <a href=""http://www.imdb.com/title/tt0371746/"">Iron Man</a>","1966-10-19"
+
+"875","nm0000418","Mon Mar 10 13:39:50 2014","Mon Mar 10 13:39:50 2014","","Danny Glover","Actor, <a href=""http://www.imdb.com/title/tt0093409/"">Lethal Weapon</a>","1946-07-22"
+
+"901","nm0000453","Mon Mar 10 13:46:40 2014","Mon Mar 10 13:46:40 2014","","Ian Holm","Actor, <a href=""http://www.imdb.com/title/tt0382932/"">Ratatouille</a>","1931-09-12"
+
+"902","nm0001447","Mon Mar 10 13:47:19 2014","Mon Mar 10 13:47:19 2014","","Nathan Lane","Actor, <a href=""http://www.imdb.com/title/tt0110357/"">The Lion King</a>","1956-02-03"
+
+"903","nm0000144","Mon Mar 10 13:47:28 2014","Mon Mar 10 13:47:28 2014","","Cary Elwes","Actor, <a href=""http://www.imdb.com/title/tt0093779/"">The Princess Bride</a>","1962-10-26"
+
+"904","nm0001454","Mon Mar 10 13:47:34 2014","Mon Mar 10 13:47:34 2014","","Martin Lawrence","Actor, <a href=""http://www.imdb.com/title/tt0172156/"">Bad Boys II</a>","1965-04-16"
+
+"905","nm0176869","Mon Mar 10 13:47:41 2014","Mon Mar 10 13:47:41 2014","","Steve Coogan","Actor, <a href=""http://www.imdb.com/title/tt2431286/"">Philomena</a>","1965-10-14"
+
+"906","nm0056187","Mon Mar 10 13:47:57 2014","Mon Mar 10 13:47:57 2014","","Sacha Baron Cohen","Actor, <a href=""http://www.imdb.com/title/tt0443453/"">Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</a>","1971-10-13"
+
+"907","nm0942482","Mon Mar 10 13:48:02 2014","Mon Mar 10 13:48:02 2014","","Jeffrey Wright","Actor, <a href=""http://www.imdb.com/title/tt0381061/"">Casino Royale</a>","1965-12-07"
+
+"908","nm0000329","Mon Mar 10 13:48:16 2014","Mon Mar 10 13:48:16 2014","","Jackie Chan","Actor, <a href=""http://www.imdb.com/title/tt0120812/"">Rush Hour</a>","1954-04-07"
+
+"909","nm0001173","Mon Mar 10 13:48:23 2014","Mon Mar 10 13:48:23 2014","","Aaron Eckhart","Actor, <a href=""http://www.imdb.com/title/tt0468569/"">The Dark Knight</a>","1968-03-12"
+
+"910","nm0941777","Mon Mar 10 13:48:36 2014","Mon Mar 10 13:48:36 2014","","Sam Worthington","Actor, <a href=""http://www.imdb.com/title/tt0499549/"">Avatar</a>","1976-08-02"
+
+"911","nm0202603","Mon Mar 10 13:48:44 2014","Mon Mar 10 13:48:44 2014","","Jack Davenport","Actor, <a href=""http://www.imdb.com/title/tt0325980/"">Pirates of the Caribbean: The Curse of the Black Pearl</a>","1973-03-01"
+
+"912","nm0000547","Mon Mar 10 13:48:52 2014","Mon Mar 10 13:48:52 2014","","Alfred Molina","Actor, <a href=""http://www.imdb.com/title/tt0082971/"">Raiders of the Lost Ark</a>","1953-05-24"
+
+"913","nm0058581","Mon Mar 10 13:48:56 2014","Mon Mar 10 13:48:56 2014","","Justin Bartha","Actor, <a href=""http://www.imdb.com/title/tt1119646/"">The Hangover</a>","1978-07-21"
+
+"914","nm0000434","Mon Mar 10 13:49:04 2014","Mon Mar 10 13:49:04 2014","","Mark Hamill","Actor, <a href=""http://www.imdb.com/title/tt0076759/"">Star Wars</a>","1951-09-25"
+
+"915","nm0000409","Mon Mar 10 13:49:13 2014","Mon Mar 10 13:49:13 2014","","Brendan Fraser","Actor, <a href=""http://www.imdb.com/title/tt0120616/"">The Mummy</a>","1968-12-03"
+
+"916","nm0001084","Mon Mar 10 13:49:20 2014","Mon Mar 10 13:49:20 2014","","Ice Cube","Soundtrack, <a href=""http://www.imdb.com/title/tt0113118/"">Friday</a>","1969-06-15"
+
+"917","nm0000630","Mon Mar 10 13:49:28 2014","Mon Mar 10 13:49:28 2014","","Liev Schreiber","Actor, <a href=""http://www.imdb.com/title/tt0458525/"">X-Men Origins: Wolverine</a>","1967-10-04"
+
+"918","nm1159180","Mon Mar 10 13:49:33 2014","Mon Mar 10 13:49:33 2014","","Ed Helms","Actor, <a href=""http://www.imdb.com/title/tt1119646/"">The Hangover</a>","1974-01-24"
+
+"919","nm0000174","Mon Mar 10 13:49:44 2014","Mon Mar 10 13:49:44 2014","","Val Kilmer","Actor, <a href=""http://www.imdb.com/title/tt0113277/"">Heat</a>","1959-12-31"
+
+"920","nm1258970","Mon Mar 10 13:49:52 2014","Mon Mar 10 13:49:52 2014","","Russell Brand","Actor, <a href=""http://www.imdb.com/title/tt1226229/"">Get Him to the Greek</a>","1975-06-04"
+
+"921","nm0005266","Mon Mar 10 15:01:41 2014","Mon Mar 10 15:01:41 2014","","Craig T. Nelson","Actor, <a href=""http://www.imdb.com/title/tt0317705/"">The Incredibles</a>","1944-04-04"
+
+"922","nm0005170","Mon Mar 10 15:01:46 2014","Mon Mar 10 15:01:46 2014","","Bernie Mac","Actor, <a href=""http://www.imdb.com/title/tt0240772/"">Ocean's Eleven</a>","1957-10-05"
+
+"923","nm0001772","Mon Mar 10 15:02:06 2014","Mon Mar 10 15:02:06 2014","","Patrick Stewart","Actor, <a href=""http://www.imdb.com/title/tt3912738/"">Age Old Excuse</a>","1940-07-13"
+
+"924","nm0001293","Mon Mar 10 15:02:14 2014","Mon Mar 10 15:02:14 2014","","Seth Green","Actor, <a href=""http://www.imdb.com/title/tt0317740/"">The Italian Job</a>","1974-02-08"
+
+"925","nm0005110","Mon Mar 10 15:02:19 2014","Mon Mar 10 15:02:19 2014","","Ashton Kutcher","Actor, <a href=""http://www.imdb.com/title/tt0289879/"">The Butterfly Effect</a>","1978-02-07"
+
+"926","nm0001642","Mon Mar 10 15:02:26 2014","Mon Mar 10 15:02:26 2014","","Randy Quaid","Actor, <a href=""http://www.imdb.com/title/tt0388795/"">Brokeback Mountain</a>","1950-10-01"
+
+"927","nm0000648","Mon Mar 10 15:02:37 2014","Mon Mar 10 15:02:37 2014","","Wesley Snipes","Actor, <a href=""http://www.imdb.com/title/tt0120611/"">Blade</a>","1962-07-31"
+
+"928","nm0524839","Mon Mar 10 15:02:46 2014","Mon Mar 10 15:02:46 2014","","Ludacris","Soundtrack, <a href=""http://www.imdb.com/title/tt1119646/"">The Hangover</a>","1977-09-11"
+
+"929","nm0654648","Sun Mar  8 12:35:35 2015","Sun Mar  8 12:35:35 2015","","David Oyelowo","Actor, <a href=""http://www.imdb.com/title/tt0816692/"">Interstellar</a>","1976-04-01"
+
+"930","nm0835016","Mon Mar 10 15:03:35 2014","Mon Mar 10 15:03:35 2014","","Mark Strong","Actor, <a href=""http://www.imdb.com/title/tt1340800/"">Tinker Tailor Soldier Spy</a>","1963-08-05"
+
+"931","nm0001705","Mon Mar 10 15:03:43 2014","Mon Mar 10 15:03:43 2014","","Rob Schneider","Actor, <a href=""http://www.imdb.com/title/tt0367652/"">Deuce Bigalow: European Gigolo</a>","1963-10-31"
+
+"932","nm0059431","Mon Mar 10 15:03:51 2014","Mon Mar 10 15:03:51 2014","","Jay Baruchel","Actor, <a href=""http://www.imdb.com/title/tt0892769/"">How to Train Your Dragon</a>","1982-04-09"
+
+"933","nm0159789","Mon Mar 10 15:03:59 2014","Mon Mar 10 15:03:59 2014","","Hayden Christensen","Actor, <a href=""http://www.imdb.com/title/tt0121766/"">Star Wars: Episode III - Revenge of the Sith</a>","1981-04-19"
+
+"934","nm0829032","Mon Mar 10 15:04:07 2014","Mon Mar 10 15:04:07 2014","","Ray Stevenson","Actor, <a href=""http://www.imdb.com/title/tt1840309/"">Divergent</a>","1964-05-25"
+
+"935","nm0079273","Mon Mar 10 15:04:16 2014","Mon Mar 10 15:04:16 2014","","Paul Bettany","Actor, <a href=""http://www.imdb.com/title/tt0268978/"">A Beautiful Mind</a>","1971-05-27"
+
+"936","nm0491402","Mon Mar 10 15:06:05 2014","Mon Mar 10 15:06:05 2014","","Hugh Laurie","Actor, <a href=""http://www.imdb.com/title/tt0606035/"">Pilot</a>","1959-06-11"
+
+"937","nm0000676","Mon Mar 10 15:06:15 2014","Mon Mar 10 15:06:15 2014","","Chris Tucker","Actor, <a href=""http://www.imdb.com/title/tt1045658/"">Silver Linings Playbook</a>","1972-08-31"
+
+"938","nm0841910","Mon Mar 10 15:06:38 2014","Mon Mar 10 15:06:40 2014","","Nick Swardson","Actor, <a href=""http://www.imdb.com/title/tt1564367/"">Just Go with It</a>","1976-10-09"
+
+"939","nm0524197","Mon Mar 10 15:06:47 2014","Mon Mar 10 15:06:47 2014","","Josh Lucas","Actor, <a href=""http://www.imdb.com/title/tt0144084/"">American Psycho</a>","1971-06-20"
+
+"940","nm0000563","Mon Mar 10 15:06:54 2014","Mon Mar 10 15:06:54 2014","","Chris O'Donnell","Actor, <a href=""http://www.imdb.com/title/tt0105323/"">Scent of a Woman</a>","1970-06-26"
+
+"941","nm0000973","Mon Mar 10 15:07:02 2014","Mon Mar 10 15:07:02 2014","","Benjamin Bratt","Actor, <a href=""http://www.imdb.com/title/tt1690953/"">Despicable Me 2</a>","1963-12-16"
+
+"942","nm0996669","Mon Mar 10 15:07:12 2014","Mon Mar 10 15:07:12 2014","","Common","Actor, <a href=""http://www.imdb.com/title/tt0475394/"">Smokin' Aces</a>","1972-03-13"
+
+"943","nm0424216","Mon Mar 10 15:07:25 2014","Mon Mar 10 15:07:25 2014","","Johnny Knoxville","Self, <a href=""http://www.imdb.com/title/tt0322802/"">Jackass: The Movie</a>","1971-03-11"
+
+"944","nm0005541","Mon Mar 10 15:07:50 2014","Mon Mar 10 15:07:50 2014","","Marlon Wayans","Actor, <a href=""http://www.imdb.com/title/tt0381707/"">White Chicks</a>","1972-07-23"
+
+"945","nm2541974","Sun Mar  8 12:36:17 2015","Sun Mar  8 12:36:17 2015","","Jai Courtney","Actor, <a href=""http://www.imdb.com/title/tt1840309/"">Divergent</a>","1986-03-15"
+
+"946","nm0000983","Mon Mar 10 15:08:03 2014","Mon Mar 10 15:08:03 2014","","Albert Brooks","Actor, <a href=""http://www.imdb.com/title/tt0266543/"">Finding Nemo</a>","1947-07-22"
+
+"947","nm0000346","Mon Mar 10 15:08:33 2014","Mon Mar 10 15:08:33 2014","","Macaulay Culkin","Actor, <a href=""http://www.imdb.com/title/tt0099785/"">Home Alone</a>","1980-08-26"
+
+"948","nm0000385","Mon Mar 10 15:08:40 2014","Mon Mar 10 15:08:40 2014","","Sam Elliott","Actor, <a href=""http://www.imdb.com/title/tt0286716/"">Hulk</a>","1944-08-09"
+
+"949","nm0001029","Mon Mar 10 15:08:47 2014","Mon Mar 10 15:08:47 2014","","Jim Caviezel","Actor, <a href=""http://www.imdb.com/title/tt0335345/"">The Passion of the Christ</a>","1968-09-26"
+
+"950","nm0006890","Sun Mar  8 12:36:48 2015","Sun Mar  8 12:36:48 2015","","Paul Scofield","Actor, <a href=""http://www.imdb.com/title/tt0060665/"">A Man for All Seasons</a>","1922-01-21"
+
+"951","nm0364813","Mon Mar 10 15:09:09 2014","Mon Mar 10 15:09:09 2014","","Jared Harris","Actor, <a href=""http://www.imdb.com/title/tt1515091/"">Sherlock Holmes: A Game of Shadows</a>","1961-08-24"
+
+"952","nm0555617","Sun Jul  5 13:33:18 2015","Sun Jul  5 13:33:18 2015","","Harpo Marx","Actor, <a href=""http://www.imdb.com/title/tt0023969/"">Duck Soup</a>","1888-11-23"
+
+"953","nm0837177","Mon Mar 10 15:09:26 2014","Mon Mar 10 15:09:26 2014","","Jason Sudeikis","Actor, <a href=""http://www.imdb.com/title/tt1723121/"">We're the Millers</a>","1975-09-18"
+
+"954","nm0001326","Mon Mar 10 15:09:33 2014","Mon Mar 10 15:09:33 2014","","Josh Hartnett","Actor, <a href=""http://www.imdb.com/title/tt0265086/"">Black Hawk Down</a>","1978-07-21"
+
+"955","nm0933940","Mon Mar 10 15:09:44 2014","Mon Mar 10 15:09:44 2014","","Patrick Wilson","Actor, <a href=""http://www.imdb.com/title/tt1457767/"">The Conjuring</a>","1973-07-03"
+
+"956","nm0614165","Mon Mar 10 15:09:54 2014","Mon Mar 10 15:09:54 2014","","Cillian Murphy","Actor, <a href=""http://www.imdb.com/title/tt1375666/"">Inception</a>","1976-05-25"
+
+"957","nm0001082","Mon Mar 10 15:10:02 2014","Mon Mar 10 15:10:02 2014","","Billy Crudup","Actor, <a href=""http://www.imdb.com/title/tt0181875/"">Almost Famous</a>","1968-07-08"
+
+"958","nm2395586","Mon Mar 10 15:10:09 2014","Mon Mar 10 15:10:09 2014","","Christopher Mintz-Plasse","Actor, <a href=""http://www.imdb.com/title/tt0829482/"">Superbad</a>","1989-06-20"
+
+"959","nm1107001","Mon Mar 10 15:10:23 2014","Mon Mar 10 15:10:23 2014","","Anthony Mackie","Actor, <a href=""http://www.imdb.com/title/tt0887912/"">The Hurt Locker</a>","1978-09-23"
+
+"960","nm0648249","Mon Mar 10 15:10:30 2014","Mon Mar 10 15:10:30 2014","","Timothy Olyphant","Actor, <a href=""http://www.imdb.com/title/tt0337978/"">Live Free or Die Hard</a>","1968-05-20"
+
+"961","nm1265802","Mon Mar 10 15:10:36 2014","Mon Mar 10 15:10:36 2014","","Josh Gad","Actor, <a href=""http://www.imdb.com/title/tt2294629/"">Frozen</a>","1981-02-23"
+
+"962","nm0005561","Mon Mar 10 15:10:41 2014","Mon Mar 10 15:10:41 2014","","Luke Wilson","Actor, <a href=""http://www.imdb.com/title/tt0302886/"">Old School</a>","1971-09-21"
+
+"963","nm0765597","Mon Mar 10 15:10:48 2014","Mon Mar 10 15:10:48 2014","","Peter Sarsgaard","Actor, <a href=""http://www.imdb.com/title/tt0418763/"">Jarhead</a>","1971-03-07"
+
+"964","nm0406975","Mon Mar 10 15:10:58 2014","Mon Mar 10 15:10:58 2014","","Rhys Ifans","Actor, <a href=""http://www.imdb.com/title/tt0948470/"">The Amazing Spider-Man</a>","1967-07-22"
+
+"965","nm0333410","Mon Mar 10 15:11:07 2014","Mon Mar 10 15:11:07 2014","","Topher Grace","Actor, <a href=""http://www.imdb.com/title/tt0413300/"">Spider-Man 3</a>","1978-07-12"
+
+"966","nm0366389","Mon Mar 10 15:11:12 2014","Mon Mar 10 15:11:12 2014","","Kevin Hart","Self, <a href=""http://www.imdb.com/title/tt2609912/"">Kevin Hart: Let Me Explain</a>","1979-07-06"
+
+"967","nm0200452","Mon Mar 10 15:11:17 2014","Mon Mar 10 15:11:17 2014","","Paul Dano","Actor, <a href=""http://www.imdb.com/title/tt0449059/"">Little Miss Sunshine</a>","1984-06-19"
+
+"968","nm0005107","Mon Mar 10 15:11:24 2014","Mon Mar 10 15:11:24 2014","","Lenny Kravitz","Soundtrack, <a href=""http://www.imdb.com/title/tt0929632/"">Precious</a>","1964-05-26"
+
+"969","nm0352778","Sun Mar  8 12:36:59 2015","Sun Mar  8 12:36:59 2015","","Bill Hader","Actor, <a href=""http://www.imdb.com/title/tt0829482/"">Superbad</a>","1978-06-07"
+
+"970","nm0000507","Mon Mar 10 15:11:55 2014","Mon Mar 10 15:11:55 2014","","Rob Lowe","Actor, <a href=""http://www.imdb.com/title/tt0145660/"">Austin Powers: The Spy Who Shagged Me</a>","1964-03-17"
+
+"971","nm0005450","Mon Mar 10 15:12:04 2014","Mon Mar 10 15:12:04 2014","","David Spade","Actor, <a href=""http://www.imdb.com/title/tt0120917/"">The Emperor's New Groove</a>","1964-07-22"
+
+"972","nm1443527","Mon Mar 10 15:12:12 2014","Mon Mar 10 15:12:12 2014","","Rob Riggle","Actor, <a href=""http://www.imdb.com/title/tt1232829/"">21 Jump Street</a>","1970-04-21"
+
+"973","nm0000448","Mon Mar 10 15:12:25 2014","Mon Mar 10 15:12:25 2014","","Lance Henriksen","Actor, <a href=""http://www.imdb.com/title/tt0090605/"">Aliens</a>","1940-05-05"
+
+"974","nm0420955","Sun Mar  8 12:37:05 2015","Sun Mar  8 12:37:05 2015","","Richard Jenkins","Actor, <a href=""http://www.imdb.com/title/tt0790724/"">Jack Reacher</a>","1947-05-04"
+
+"975","nm1036181","Mon Mar 10 15:12:53 2014","Mon Mar 10 15:12:53 2014","","Mike Vogel","Actor, <a href=""http://www.imdb.com/title/tt1060277/"">Cloverfield</a>","1979-07-17"
+
+"976","nm1013003","Mon Mar 10 15:12:59 2014","Mon Mar 10 15:12:59 2014","","Michael Ealy","Actor, <a href=""http://www.imdb.com/title/tt0814314/"">Seven Pounds</a>","1973-08-03"
+
+"977","nm0005327","Mon Mar 10 15:13:06 2014","Mon Mar 10 15:13:06 2014","","Freddie Prinze Jr.","Actor, <a href=""http://www.imdb.com/title/tt0267913/"">Scooby-Doo</a>","1976-03-08"
+
+"978","nm0068260","Mon Mar 10 15:13:25 2014","Mon Mar 10 15:13:25 2014","","Jamie Bell","Actor, <a href=""http://www.imdb.com/title/tt0983193/"">The Adventures of Tintin</a>","1986-03-14"
+
+"979","nm1144419","Mon Mar 10 15:13:33 2014","Mon Mar 10 15:13:33 2014","","Danny McBride","Actor, <a href=""http://www.imdb.com/title/tt1240982/"">Your Highness</a>","1976-12-29"
+
+"980","nm0001667","Sun Jul  5 13:33:28 2015","Sun Jul  5 13:33:28 2015","","Jonathan Rhys Meyers","Actor, <a href=""http://www.imdb.com/title/tt0416320/"">Match Point</a>","1977-07-27"
+
+"981","nm0148418","Mon Mar 10 15:13:50 2014","Mon Mar 10 15:13:50 2014","","Michael Cera","Actor, <a href=""http://www.imdb.com/title/tt0446029/"">Scott Pilgrim vs. the World</a>","1988-06-07"
+
+"982","nm0005098","Mon Mar 10 15:13:58 2014","Mon Mar 10 15:13:58 2014","","Chris Klein","Actor, <a href=""http://www.imdb.com/title/tt0163651/"">American Pie</a>","1979-03-14"
+
+"983","nm1535523","Mon Mar 10 15:14:07 2014","Mon Mar 10 15:14:07 2014","","Jaden Smith","Actor, <a href=""http://www.imdb.com/title/tt1155076/"">The Karate Kid</a>","1998-07-08"
+
+"984","nm0344435","Mon Mar 10 15:15:02 2014","Mon Mar 10 15:15:02 2014","","Ioan Gruffudd","Actor, <a href=""http://www.imdb.com/title/tt0120667/"">Fantastic Four</a>","1973-10-06"
+
+"985","nm0266422","Sun Mar  8 12:36:25 2015","Sun Mar  8 12:36:25 2015","","Jimmy Fallon","Actor, <a href=""http://www.imdb.com/title/tt0332047/"">Fever Pitch</a>","1974-09-19"
+
+"986","nm1249256","Mon Mar 10 15:15:54 2014","Mon Mar 10 15:15:54 2014","","Larry the Cable Guy","Actor, <a href=""http://www.imdb.com/title/tt0317219/"">Cars</a>","1963-02-17"
+
+"987","nm0732497","Sun Mar  8 12:40:58 2015","Sun Mar  8 12:40:58 2015","","Craig Robinson","Actor, <a href=""http://www.imdb.com/title/tt1245492/"">This Is the End</a>","1971-10-25"
+
+"988","nm0206359","Mon Mar 10 15:16:11 2014","Mon Mar 10 15:16:11 2014","","Charlie Day","Actor, <a href=""http://www.imdb.com/title/tt1663662/"">Pacific Rim</a>","1976-02-09"
+
+"989","nm1676221","Mon Mar 10 15:16:18 2014","Mon Mar 10 15:16:18 2014","","Andy Samberg","Actor, <a href=""http://www.imdb.com/title/tt0837562/"">Hotel Transylvania</a>","1978-08-18"
+
+"990","nm1330560","Mon Mar 10 15:16:26 2014","Mon Mar 10 15:16:26 2014","","Garrett Hedlund","Actor, <a href=""http://www.imdb.com/title/tt1104001/"">TRON: Legacy</a>","1984-09-03"
+
+"991","nm1544217","Mon Mar 10 15:16:48 2014","Mon Mar 10 15:16:48 2014","","Cam Gigandet","Actor, <a href=""http://www.imdb.com/title/tt1282140/"">Easy A</a>","1982-08-16"
+
+"992","nm1024677","Mon Mar 10 15:16:58 2014","Mon Mar 10 15:16:58 2014","","John Krasinski","Actor, <a href=""http://www.imdb.com/title/tt1176740/"">Away We Go</a>","1979-10-20"
+
+"993","nm0416673","Thu Aug 13 10:54:55 2015","Thu Aug 13 10:54:55 2015","","Kevin James","Actor, <a href=""http://www.imdb.com/title/tt1648179/"">Here Comes the Boom</a>","1965-04-26"
+
+"994","nm0005227","Mon Mar 10 15:17:07 2014","Mon Mar 10 15:17:07 2014","","Breckin Meyer","Actor, <a href=""http://www.imdb.com/title/tt0215129/"">Road Trip</a>","1974-05-07"
+
+"995","nm0001659","Mon Mar 10 15:17:15 2014","Mon Mar 10 15:17:15 2014","","Christopher Reeve","Actor, <a href=""http://www.imdb.com/title/tt0078346/"">Superman</a>","1952-09-25"
+
+"996","nm0001722","Mon Mar 10 15:17:22 2014","Mon Mar 10 15:17:22 2014","","Rufus Sewell","Actor, <a href=""http://www.imdb.com/title/tt0118929/"">Dark City</a>","1967-10-29"
+
+"997","nm0001806","Mon Mar 10 15:34:46 2014","Mon Mar 10 15:34:46 2014","","John Turturro","Actor, <a href=""http://www.imdb.com/title/tt0190590/"">O Brother, Where Art Thou?</a>"
+
+"998","nm0000885","Mon Mar 10 15:34:54 2014","Mon Mar 10 15:34:54 2014","","Ned Beatty","Actor, <a href=""http://www.imdb.com/title/tt0435761/"">Toy Story 3</a>","1937-07-06"
+
+"999","nm0000092","Mon Mar 10 15:34:34 2014","Mon Mar 10 15:34:34 2014","","John Cleese","Actor, <a href=""http://www.imdb.com/title/tt0095159/"">A Fish Called Wanda</a>","1939-10-27"
+
+"1000","nm0564215","Thu Aug 13 11:16:30 2015","Thu Aug 13 11:16:30 2015","","James McAvoy","Actor, <a href=""http://www.imdb.com/title/tt1270798/"">X-Men: First Class</a>","1979-04-21"

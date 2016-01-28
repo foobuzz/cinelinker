@@ -9,7 +9,6 @@ Used with permission.
 
 Find links between movies actors and directors.
 
-	
 	./linker.py "Bruce Willis" "Emma Stone"
 
 	             Bruce Willis
@@ -53,7 +52,7 @@ Create a new cinelinker database in a directory of your choice, for example `~/.
 	mkdir ~/.cinelinker
 	./extractor.py new ~/.cinelinker/my_data
 
-In the cinelinker folder, the directory `data` contains three CSV files which are lists of most famous actors, actresses and directors. Add them to the database:
+In the cinelinker folder, the directory `lists` contains three CSV files which are lists of most famous actors, actresses and directors. Add them to the database:
 
 	./extractor.py add actors lists/actors.csv ~/.cinelinker/my_data
 	./extractor.py add actresses lists/actresses.csv ~/.cinelinker/my_data

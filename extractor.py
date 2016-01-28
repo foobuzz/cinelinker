@@ -40,7 +40,7 @@ Profile = namedtuple('Profile', 'name birthdate known_for')
 def iter_imdb_csv(filename):
 	""" Iterates over the people of a CSV IMDb list. Yields 3-tuples in the
 		form:
-			(name, known_for, birth)
+			(name, birth, known_for)
 		where:
 			known_for is the title of a movie the person is known for;
 			birth is the date of birth of the person in ISO standard
@@ -213,12 +213,15 @@ def index_imdb(datafilepath, length):
 
 
 def iter_imdb_list(list_f, film_re, stop=None):
-	""" An iterator on people listed in an IMDb data file. Yields 4-tuples
+	""" An iterator on people listed in an IMDb data file. Yields 6-tuples
 	    in the form:
-	    	(lastname, firstname, serial, movies)
+	    	(name_pos, current_pos, lastname, firstname, serial, movies)
 	    where:
-	    	serial is a string of a roman numeral or None
-	    	movies is an iterator on the person's movies.
+	    	- name_pos is the byte number of the character starting the line
+	    	where the person's name is displayed
+	    	- current_pos is the current byte position in the file descriptor
+	    	- serial is a string of a roman numeral or None
+	    	- movies is an iterator on the person's movies.
 	    movies yields 3-tuples in the form:
 	    	(title, year, rest)
 	    where:
